@@ -1,0 +1,550 @@
+&&&&&&&&&&
+##########
+LOCA:001
+TIPO:NORMAL
+TITU:Cabina de Navegación
+IMAG:part2_location_001
+AYUD:Los comandos básicos son "norte", "sur", "este"... Puedes obtener información adicional con el comando "examinar" y el objeto sobre el que quieres mas información.
+DESC:Hay dos sillones de mando, frente a los cuales está situado el panel de control, lleno de palanquitas y luces. En el techo, plagado de controles, destaca un buscador Cimanid-2x.
+SALI:SUR S 002
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:002
+TIPO:NORMAL
+TITU:Pasillo de Acceso
+IMAG:part2_location_002
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Pasillo de acceso del Halcón Millonario. A ambos lados se encuentran sendos paneles de control, llenos de brillantes lucecitas. También hay un minicontenedor en la pared.
+SALI:NORTE N 001
+SALI:ESTE E 003
+SALI:SUR S 007
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:003
+TIPO:NORMAL
+TITU:Sala Principal
+IMAG:part2_location_003
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Sala principal del Halcón. Sobre una mesa redonda se disponen un montón de artilugios. Se ven dos computadoras de hiperespacio.
+SALI:NORTE N 005
+SALI:SUR S 004
+SALI:ESTE E 006
+SALI:OESTE O 002
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:004
+TIPO:NORMAL
+TITU:Sala de Motores
+IMAG:part2_location_004
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay un verdadero laberínto de tubos, cables y fibras-luz, interconectando multitud de aparatos, de entre los cuales destaca los dos impresionantes motores Krugger, capaces de lograr velocidad luz-20.
+SALI:NORTE N 003
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:005
+TIPO:NORMAL
+TITU:Sala de Turboláseres
+IMAG:part2_location_005
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay dos puestos de control dotados de monitores de búsqueda automática. Hay un botiquín de primeros auxilios, ¡por si acaso!
+SALI:SUR S 003
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:006
+TIPO:NORMAL
+TITU:Compartimento de Carga
+IMAG:part2_location_006
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Una decena de pesados containers están apilados, junto a varias flotacajas metalizadas.
+SALI:OESTE O 003
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:007
+TIPO:NORMAL
+TITU:Hangar
+IMAG:part2_location_007
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en mitad de un inmenso hangar. Puedes ver maquinaria de reparaciones, columnas de reabastecimiento, el Halcón Millonario, y... soldados.
+SALI:NORTE N 002
+SALI:SUR S 009
+SALI:ESTE E 008
+SALI:OESTE O 011
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:008
+TIPO:NORMAL
+TITU:Transportador Vertical
+IMAG:part2_location_008
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Esto que ves aquí no es ni más ni menos que un vulgar transportador vertical que comunica con el nivel superior de la Estrella Pringosa.
+SALI:OESTE O 007
+SALI:SUBIR SU 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:009
+TIPO:NORMAL
+TITU:Transportador Vertical
+IMAG:part2_location_009
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Una puerta con una flecha orientada hacia abajo comunica con el nivel inferior de la Estrella Pringosa.
+SALI:NORTE N 007
+SALI:OESTE O 010
+SALI:BAJAR BA 019
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:010
+TIPO:NORMAL
+TITU:Sala de Ocio
+IMAG:part2_location_010
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay varias mesas de soft-billar, y un electro-futbolin. Aquí es donde los soldados deben pasar el tiempo libre.
+SALI:NORTE N 011
+SALI:ESTE E 009
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:011
+TIPO:NORMAL
+TITU:Pasillo de Comunicación
+IMAG:part2_location_011
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Otro monótono pasillo de comunicación, decorado con holofotos del Emperador Karapalo.
+SALI:NORTE N 012
+SALI:SUR S 010
+SALI:ESTE E 007
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:012
+TIPO:NORMAL
+TITU:Armería
+IMAG:part2_location_012
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en la armería principal de la Estrella Pringosa. Hay muchos estantes con cristaleras blindadas, repletas de rifles láser de diferentes tamaños.
+SALI:SUR S 011
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:013
+TIPO:NORMAL
+TITU:Sala de Mandos Estrella Pringosa
+IMAG:part2_location_013
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:No te ofusques con las miles de lucecitas. Te encuentras en la sala de mandos de la Estrella Pringosa.
+SALI:NORTE N 016
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:014
+TIPO:NORMAL
+TITU:Pasillo Largo (inicio)
+IMAG:part2_location_014
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Las luces del techo titilan en este largo pasillo de paredes azules.
+SALI:SUR S 018
+SALI:ESTE E 015
+SALI:OESTE O 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:015
+TIPO:NORMAL
+TITU:Pasillo Largo (fin)
+IMAG:part2_location_015
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás al final del pasillo. Tubos anillados parten de las paredes para incrustarse en el techo. Una cruda luz hiere tus ojos.
+SALI:OESTE O 014
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:016
+TIPO:NORMAL
+TITU:Letrinas
+IMAG:part2_location_016
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Notas un fuerte olor a amoniaco bastante molesto. En una de las paredes se alinean varias letrinas de color blanco. No cabe duda, esto es un meodromo.
+SALI:SUR S 013
+SALI:OESTE O 018
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:017
+TIPO:NORMAL
+TITU:Puerta Metálica
+IMAG:part2_location_017
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Te encuentras frente a una puerta metálica enorme, con un gran botón en su centro, sobre el cual se lee: 00-AREFSOMTA OERC-22.
+SALI:NORTE N 018
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:018
+TIPO:NORMAL
+TITU:Cuadrilátero
+IMAG:part2_location_018
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Qué lugar más curioso! Estás en el centro de una estructura cuadrangular, cuyo perímetro está conformado por una triple hilera de haces láseres rojos. 
+SALI:NORTE N 014
+SALI:SUR S 017
+SALI:ESTE E 016
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:019
+TIPO:NORMAL
+TITU:Transportador Vertical
+IMAG:part2_location_019
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Esto ya lo has visto antes, es un transportador vertical.
+SALI:SUR S 022
+SALI:ESTE E 020
+SALI:OESTE O 021
+SALI:SUBIR SU 009
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:020
+TIPO:NORMAL
+TITU:Mas Donal
+IMAG:part2_location_020
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás junto a un Mas Donal. Un reconfortante olor a cebolla, catchup, mostaza y carne, sacude tu olfato.
+SALI:OESTE O 019
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:021
+TIPO:NORMAL
+TITU:Punto
+IMAG:part2_location_021
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Aquí no hay nada, solo un punto.
+SALI:ESTE E 019
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:022
+TIPO:NORMAL
+TITU:Control de Seguridad
+IMAG:part2_location_022
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay una mesa circular repleta de controles. En un monitor se leen los números de las celdas.
+SALI:NORTE N 019
+SALI:ESTE E 024
+SALI:OESTE O 025
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:023
+TIPO:NORMAL
+TITU:Transportador Vertical
+IMAG:part2_location_023
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás justo a lo que parece ser un transportador vertical.
+SALI:ESTE E 014
+SALI:BAJAR BA 008
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:024
+TIPO:NORMAL
+TITU:Celda Este
+IMAG:part2_location_024
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en una lóbrega celda débilmente iluminada. Hay un camastro sujeto a una de las paredes y fuertes cadenas están ancladas al suelo.
+SALI:OESTE O 022
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:025
+TIPO:NORMAL
+TITU:Celda Oeste
+IMAG:part2_location_025
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:La celda es un pequeño cuartucho, donde el único mobiliario es un catre de molibdeno, iluminado por un neon de color rosa.
+SALI:ESTE E 022
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:026
+TIPO:NORMAL
+TITU:Sala de Turboláseres
+IMAG:part2_location_026
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay dos puestos de control dotados de monitores de búsqueda automática. Hay un botiquín de primeros auxilios, ¡por si acaso!
+SALI:NORTE N 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:100
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:troopers
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:No logras ocultarte a tiempo. Los soldados acaban por acorrarlarte y te apuntan con sus armas.
+MENS:Una lluvia de rayos láser acaba con tu vida, no quedando de ti más que polvo.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:101
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:¡Insensato! Atacas a Darth Water sin una cachiporraluz que pueda ayudarte.
+MENS:Y claro, al primer movimiento, Darth Water te reduce a humo con su primer mandoble.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:102
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:En un ataque de ira y frenesí descontrolado, Darth Water lanza un golpe por encima de su cabeza que te parte en dos.
+MENS:¡Qué penita! Lo has dado todo chavalote, pero Darth Water ha sido mejor que tú.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:103
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead2
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:El guantebot se agacha cuando intentas golpearle y te golpea el mentón desde abajo.
+MENS:Se oye un ¡crack! y tu cabeza y cuerpo se separan en direcciones opuestas.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:104
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:troopers
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:El ojo de seguridad acaba finalmente por detectar que eres un intruso y activa la alarma.
+MENS:En menos de un segundo estás rodeado por decenas de soldados imperiales, que sin muchos esfuerzos te reducen a humo.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:105
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:troopers
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Introduces la tarjeta en la ranura del panel de seguridad, pero el ojo enfoca tu cara y activa la alarma al detectar que eres un intruso.
+MENS:En menos de un segundo estás rodeado por decenas de soldados imperiales, que sin muchos esfuerzos te reducen a humo.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:106
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a Obi con la pistola y aprietas el gatillo...
+MENS:... el viejo maestro saca su cachiporraluz y golpea el haz laser antes de que pueda tocarle y lo devuelve contra ti.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:107
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a Juansolo con la pistola... 
+MENS:... y antes de que puedas apretar el gatillo, Chequevaca te coge con sus peludos brazos y te rompe el cuello.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:108
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a los androides con la pistola... 
+MENS:... R3D2 se da cuenta de tus intenciones, y utiliza su conector estándar de defensa a base de calambrazos marca ACME para electrocutarte.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:109
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Con tanto equivocarte has hecho saltar la alarma principal de la Estrella Pringosa.
+MENS:Cientos de soldados te rodean y te caen rayos láser por tantos lados que lo único que queda de ti es un poco de humo.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:110
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Los cazas imperiales te están atizando de lo lindo y claro pasa lo que tiene que pasar.
+MENS:Los escudos del Halcón Millonario no resisten más y al siguiente golpe la nave se desintegra en mil pedazos.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:111
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead3
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:La cuenta atrás llega a su fin. La Estrella Pringosa estalla en una bonita sinfonía multicolor.
+MENS:Es una pena que tu estés dentro, seguro que fue un espectáculo digno de ver.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:112
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead3
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Os abrocháis los cinturones y entre Juansolo y Chequevaca activan el sistema de encendido. El Halcón Millonario abandona el hangar y sale al espacio.
+MENS:Antes de que poder maniobrar y saltar al hiperespacio, la Estrella Pringosa os aniquila con uno de sus láseres de Fuerza Sucia 8. Oyes una voz en off que dice: "¡Te dije que destruyeras la Estrella!, ¿te lo dije o no?"
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:113
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead4
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Pulsas el botón de la puerta metálica, y oyes como se activa un mecanismo hidráulico.
+MENS:Poco a poco las puertas se abren y.... eres expulsado al espacio. ¡Ya te vale!
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////

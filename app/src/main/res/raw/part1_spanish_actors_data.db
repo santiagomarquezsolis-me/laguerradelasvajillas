@@ -1,0 +1,606 @@
+&&&&&&&&&&
+##########
+LOCA:005
+NAME:OBI
+SYNO:MAESTRO
+SYNO:CABALLERO
+SYNO:ANCIANO
+SYNO:HEAVY
+KILL:FALSE
+TEXT:Obi Juan Que-no-vé.
+DESC:Aunque no lo parezca, por su atuendo está claro que es un Maestro Heavy de la Fuerza, y probablemente el último que queda.
+IMAG:actor_obi
+ACTI:COMO ESTAS@Obi Juan: "Aquí pasando el rato al sol. Hace un calor que tetorras, por si no lo sabías."
+ACTI:HOLA, ¿CÓMO ESTÁS?@Obi Juan: "Aquí pasando el rato al sol. Hace un calor que tetorras, por si no lo sabías."
+ACTI:QUE PASA@Obi Juan: "¿Cual es el nombre del creador de una famosa película de galaxias y guerras?"
+ACTI:QUE OCURRE@Obi Juan: "Luque, presiento que el universo está en peligro."
+ACTI:HOLA@Obi Juan: Te dice: "¡Hola tú! ¿Cómo te va la vida?"
+ACTI:ALLUDAME@Obi Juan: "Tenemos que salir de este planeta cuanto antes."
+ACTI:ALLUDA@Obi Juan: "Hay que salir de Tutuflex. Hay que buscar una nave y un piloto y salir pitando."
+ACTI:COMO LLAMAS@Obi Juan: "Obi Juan Que-no-vé, y tú eres Martin Luque Skywalker."
+ACTI:CUAL NOMBRE@Obi Juan: "Obi Juan Que-no-vé."
+ACTI:QUIEN ERES@Obi Juan: "Soy Obi Juan Que-no-vé. Caballero Heavy de la Fuerza."
+ACTI:QUE HACES@Obi Juan: "Te estaba esperando querido Luque. ¿Cual es el nombre del creador de una famosa película de galaxias y guerras?"
+ACTI:ME GUSTÁN TUS GAFAS, ¿ME LAS PRESTAS?@Obi dice: "Tú estás tonto o qué. Porqué crees que me llamo QUE-NO-VE, ainss esto va a ser duro para los dos."
+AUTO:¿NO DEBERÍAMOS ENTRENAR CON LA CACHIPORRALUZ?.@Obi dice: "¿Con este calor? Ni de broma. Cuando sea el momento, solo deja que la fuerza fluya chavalote."
+ACTI:GEORGE@004
+ACTI:GEORGE LUCAS@004
+ACTI:LA RESPUESTA A TU PREGUNTA ES "GEORGE", ¿A QUÉ SÍ?@004
+ACTI:HOLA, SOY MARTIN LUQUE SKYWALKER Y TÚ, ¿QUIÉN ERES?@¡Hola tú! ¿Cómo te va la vida? Yo soy, el Maestro Heavy Obi Juan Que-no-vé.
+ACTI:POR FAVOR, ¿PUEDES AYUDARME?@Respondeme pequeño saltamontes, ¿cual es el nombre del creador de una famosa película de galaxias y guerras?
+ACTI:MENUDO CALOR HACE AQUÍ.@Como diría una amiga mía "hace un calor que tetorras".
+ACTI:IDIOTA@Obi dice: "¿Quieres acabar en el Lado Sucio de la Fuerza?"
+ACTI:ERES IDIOTA@Obi dice: "Estás lastimando mis sentimientos de Caballero Heavy."
+ACTI:ERES SUBNORMAL@Obi dice: "¿Te crees muy mayor por insultarme?"
+ACTI:ERES FEO@Obi dice: "¡Vaya! Dijo el bellezon de las Galaxias."
+ACTI:OBI, AYÚDAME POR FAVOR, ¿QUÉ HAGO?@Obi dice: "No desesperes, tenemos que salir del desierto."
+ACTI:AYÚDAME@Obi dice: "No desesperes, tenemos que salir del desierto."
+ACTI:AYUDAME@Obi dice: "No desesperes, tenemos que salir del desierto."
+ACTI:AYUDAME POR FAVOR@Obi dice: "No desesperes, tenemos que salir del desierto."
+ACTI:¿HACIA DONDE VAMOS?@Obi dice: "Hay una ciudad cerca de aquí, y hacia allí deberíamos de ir."
+ACTI:¿DONDE ESTÁ MI PADRE?@Obi dice: "Pues..... fue a por tabaco y no volvió. Igual no le gustaba tener un hijo tan cargante como tú."
+ACTI:¿HACIA DONDE VAMOS?@Obi dice: "No sé, eres tú el que está tecleando las órdenes."
+ACTI:¿ESTAREMOS LEJOS DE LA CIUDAD?@Obi dice: "No creo que podamos preguntar por aquí a nadie, pero no creo que esté lejos."
+ACTI:¿DONDE PODEMOS ENCONTRAR UN PILOTO Y UNA NAVE?@Obi dice: "Lo mejor son los garitos de mala muerte, allí encontraremos seguro a alguien."
+ACTI:¡ESTA CIUDAD APESTA!@Obi dice: "Eres un poco señorito, me parece a mi y dicho desde el cariño y el respeto que te tengo."
+ACTI:¡HAY BUENA VISTA DESDE AQUÍ!@Obi dice: "¡Serías un cómico genial!. Hay que tener cuidado con los merodeadores."
+ACTI:¡ESTO ES UN ANTRO DE MALA MUERTE!@Obi asiente con la cabeza y dice: "¡Cierto!, pero hay muchos pilotos y seguro que podemos contratar alguno."
+ACTI:¡VAYA CON EL SAPO!@Obi se encoge de hombros y dice: "¡Tenemos que tener cuidado con quien nos relacionamos!"
+ACTI:OBI, ¿QUÉ HACEMOS?@Obi dice: "Tenemos que conseguir un piloto y una nave que sean discretos."
+ACTI:¿QUÉ TE PARECE LA CASA?@Obi dice: "Bonita y funcional, pero no tenemos tiempo para esto."
+ACTI:EL TIO OGUEN VOLVERÁ PRONTO. ¿LE CONOCES?@Obi dice: "Un poco. Creo que es menos palizas que su sobrino."
+ACTI:¿TE GUSTÁN LOS NABOS? POR FAVOR, DIME QUE NO.@Obi dice: "Si eso te hace feliz, la respuesta es no."
+ACTI:¿TU CULTIVAS ALGO?@Obi dice: "Antes le daba un poco a la Mari-Juana, pero ahora estoy retirado."
+ACTI:¿QUÉ OPINAS DEL CULTIVO HIDROPÓNICO?@Obi dice: "¡Es un gran invento!, pero tenemos prisa chavalote."
+ACTI:¿QUÉ OPINAS DE ESTOS DOS?@Obi dice: "¡Deberíamos ayudarlos! Aunque al rosita yo le daría una buena mano de pintura."
+ACTI:¿DÓNDE HAY MERODEADORES?@Obi dice: "Pueden aparecer en cualquier momento. Yo no me confiaría mucho."
+ACTI:PARECE QUE TE CONOCEN.@Obi dice: "Tengo una cara muy común, me pasa a veces."
+AUTO:¿QUIÉN ES LA PRINCESA PACA?@Obi dice: "Es la lider de los Rebeldes sin Causa, que luchan contra el terror de Karapalo."
+AUTO:¿QUÉ TE PARECE LA NAVE?@Obi dice: "Esto no es una nave, es una lata con motor. Pero tendrá que bastarnos."
+AUTO:¿SUBIMOS A LA NAVE?@Obi dice: "No nos queda otro remedio, tenemos que salvar a la princesa Paca y el tiempo se agota."
+AUTO:LOS MOTORES NO TIENEN BUEN ASPECTO.@Obi dice: "Los han tratado a golpes. Lo raro es que funcionen... si funcionan."
+AUTO:001@¿Qué te parece la casa?@
+AUTO:001@Me gustán tus gafas, ¿me las prestas?@
+AUTO:001@El tio Oguen volverá pronto. ¿Le conoces?@
+AUTO:002@¿Qué te parece la casa?@
+AUTO:002@Me gustán tus gafas, ¿me las prestas?@
+AUTO:002@El tio Oguen volverá pronto. ¿Le conoces?@
+AUTO:003@¿Te gustán los nabos? Por favor, dime que no.@
+AUTO:003@¿Tu cultivas algo?@
+AUTO:003@¿Qué opinas del cultivo hidropónico?@
+AUTO:004@¿Qué opinas de estos dos?@
+AUTO:004@¿Dónde hay merodeadores?@
+AUTO:004@Parece que estos dos te conocen.@
+AUTO:004@¿Quién es la Princesa Paca?@
+AUTO:005@Hola, soy Martin Luque Skywalker y tú, ¿quién eres?@
+AUTO:005@Hola, ¿cómo estás?@
+AUTO:005@Por favor, ¿puedes ayudarme?@
+AUTO:005@Me gustán tus gafas, ¿me las prestas?@
+AUTO:005@Menudo calor hace aquí.@
+AUTO:005@La respuesta a tu pregunta es "George", ¿a qué sí?@
+AUTO:006@¿Qué podemos hacer Obi?.@
+AUTO:006@Obi, ¿no deberíamos entrenar con la cachiporraluz?.@
+AUTO:006@¿Hacia donde vamos?@
+AUTO:006@Menudo calor hace aquí.@
+AUTO:006@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:007@Menudo calor hace aquí.@
+AUTO:007@¿Estaremos lejos de la ciudad?@
+AUTO:008@Menudo calor hace aquí.@
+AUTO:008@¡Hay buena vista desde aquí!.@
+AUTO:009@Menudo calor hace aquí.@
+AUTO:009@¿Donde está mi padre?@
+AUTO:010@¿Donde podemos encontrar un piloto y una nave?@
+AUTO:010@¡Esta ciudad apesta!@
+AUTO:011@¿Donde podemos encontrar un piloto y una nave?@
+AUTO:011@¡Esta ciudad apesta!@
+AUTO:012@¿Donde podemos encontrar un piloto y una nave?@
+AUTO:012@¡Esta ciudad apesta!@
+AUTO:014@¡Esta ciudad apesta!@
+AUTO:014@¡Esto es un antro de mala muerte!@
+AUTO:014@Parece que te conocen.@
+AUTO:014@¡Vaya con el sapo!@
+AUTO:014@Obi, ¿qué hacemos?@
+AUTO:020@¿Qué te parece la nave?@
+AUTO:020@¿Subimos a la nave?@
+AUTO:021@¿Qué te parece la nave?@
+AUTO:022@¿Qué te parece la nave?@
+AUTO:023@¿Qué te parece la nave?@
+AUTO:024@¿Qué te parece la nave?@
+AUTO:024@¿Para qué usará los contenedores?@
+AUTO:025@¿Qué te parece la nave?@
+AUTO:026@¿Qué te parece la nave?@
+AUTO:026@Los motores no tienen buen aspecto.@
+RAND:Obi Juan: "¿Qué dices, pequeño saltamontes?"
+RAND:Obi Juan: "Martin Luque Skywalker, supongo."
+RAND:Obi Juan: "Hola. ¿Estás hablando en balleno?"
+RAND:Obi Juan: "Creo que no eres de por aquí, no hablas muy claro".
+RAND:Obi Juan: "¿Puedo ayudarte?"
+ASKE:
+GIVE:
+PUSH:
+SUIC:
+FOLL:004
+//////////
+##########
+LOCA:004
+NAME:R3D2
+KILL:FALSE
+SYNO:ANDROIDE
+SYNO:ANDROIDES
+SYNO:CASCARRABIAS
+SYNO:CASCARRABIA
+SYNO:TAMBOR
+SYNO:ROBOT
+TEXT:Una especie de tambor de detergente que solo sabe emitir pitidos.
+DESC:Del tamaño un poco mayor que un tambor de detergente, R3D2 es un robot regordete de comunicaciones y guíado de cazas espaciales de combate. Parece que la arena, tiene oxidado parte de sus mecanismos.
+IMAG:actor_r3d2
+ACTI:COMO ESTAS@R3D2 dice: "Piririru piruru, pipi ruru."
+ACTI:QUE PASA@R3D2 dice: "Piririru piruru, pipi ruru."
+ACTI:QUE OCURRE@R3D2 dice: "Piriri piriru piruru, pipi ruru."
+ACTI:HOLA@R3D2 dice: "Piriri piriru piruru, pipi ruru."
+ACTI:ALLUDAME@R3D2 dice: "Piriri piriru piruru, con la pata de palo nem!."
+ACTI:ALLUDA@R3D2 dice: "¿Piriri piriru piruru?, pipi ruru."
+ACTI:COMO LLAMAS@R3D2: "Pipipi rupipiru"
+ACTI:CUAL NOMBRE@R3D2: "Pipipi rupipiru pi pi pipiripi"
+ACTI:DONDE VIVES@R3D2: "Pipipi rupipiru"
+ACTI:TONTO@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:ERES TONTO@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:CABEZON@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:ERES CABEZON@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:IDIOTA@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:ERES IDIOTA@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:GILIPOLLAS@R3D2: "Pipipi tu madre, rupipiru"
+ACTI:ERES GILIPOLLAS@R3D2: "Pipipi tu madre, rupipiru"
+AUTO:001@Piririru piruru@
+AUTO:001@Piri pirureriru piruru@
+AUTO:001@¿Pipipi rupipiru ruru?@
+AUTO:002@Piririru piruru@
+AUTO:002@Piri pirureriru piruru@
+AUTO:002@¿Pipipi rupipiru ruru?@
+AUTO:003@Piririru piruru@
+AUTO:003@Piri pirureriru piruru@
+AUTO:003@¿Pipipi rupipiru ruru?@
+AUTO:004@Piririru piruru@
+AUTO:004@¿Pipipi rupipiru ruru?@
+AUTO:005@Piririru piruru@
+AUTO:005@¿Pipipi rupipiru ruru?@
+AUTO:006@Piririru piruru@
+AUTO:006@¿Pipipi rupipiru ruru?@
+AUTO:007@Piririru piruru@
+AUTO:007@¿Pipipi rupipiru ruru?@
+AUTO:008@Piririru piruru@
+AUTO:008@¿Pipipi rupipiru ruru?@
+RAND:R3D2: "Pipipi rupipiru"
+RAND:R3D2: "Pipipi rupipiru pi pi pipiripi"
+RAND:R3D2: "¿Pipipi rupi rupipippiru?"
+ASKE:
+GIVE:003
+SUIC:
+PUSH:
+FOLL:001
+//////////
+##########
+LOCA:004
+NAME:C2P2
+SYNO:ANDROIDE
+SYNO:ANDROIDES
+SYNO:ROBOT
+KILL:FALSE
+TEXT:Tu viejo C2P2.
+DESC:C2P2, es un robot de un suave color rosa palo super chulo. Lo creastes cuando aún eras un crio, y era un mayordomo ideal, todo lo mantenía límpio y ordenado. Su frase favorita era "tu pasa el Pronto y yo el paño."
+IMAG:actor_c2p2
+ACTI:¿COMO ESTAS?@C2P2: "¡Llenos de arena y sin lubricación!, Por favor, Amo Luque, R3D2 necesita ayuda."
+ACTI:C2P2, ¿CÓMO ESTAS?@C2P2: "¡Llenos de arena y sin lubricación!, No tenemos mucho tiempo, la princesa Paca está en grave peligro."
+ACTI:QUE PASA@C2P2: "¡Amo Luque!, estamos llenos de arena y sin lubricación, hay que ayudar a R3D2."
+ACTI:QUE OCURRE@Elfito: "¿Sabes donde está mi casa?, por favor, ayudame." Dice desconsolado.
+ACTI:HOLA@C2P2: Te dice: "Amo Luque!!, ¡Hola amo Luque!"
+ACTI:ALLUDAME@C2P2: "Ahora mismo no puedo, está atascado R3D2."
+ACTI:ALLUDA@C2P2: "¡No quiero!"
+ACTI:COMO LLAMAS@C2P2: "Me llamo C2P2. ¡Tu pasa el Pronto y yo el paño!"
+ACTI:CUAL NOMBRE@Elfito: "Me llamo C2P2. ¿No me recuerda amo Luque?"
+ACTI:DONDE HAS ESTADO@C2P2: "Es una larga historia amo Luque. Por favor, ayúde a R3D2."
+ACTI:QUIEN ES ESTE@C2P2: "Es R3D2, un androide un poco rarito, lleno de ego de sí mismo."
+ACTI:QUE HACES@C2P2: "Aquí parado. Si tengo que seguir con la cabeza de chorlito de R3D2 como única compañía, ¡prefiero ser formateado, amo Luque!""
+ACTI:C2P2, ¿QUÉ ESTÁIS HACIENDO?@C2P2: "Aquí parado. Si tengo que seguir con la cabeza de chorlito de R3D2 como única compañía, ¡prefiero ser formateado, amo Luque!""
+ACTI:IDIOTA@C2P2: "¿Porqué me insultas amo Luque? ¿No tengo bastante con lo que me pasa? ¿Quién me pone la pierna encima para que no levante cabeza?"
+ACTI:ERES IDIOTA@C2P2: "Pues tu pasa el Pronto y yo el paño."
+ACTI:FEO@C2P2: "¿Porqué me insultas amo Luque? ¿No tengo bastante con lo que me pasa? ¿Quién me pone la pierna encima para que no levante cabeza?"
+ACTI:ERES FEO@C2P2: "Pues tu pasa el Pronto y yo el paño."
+ACTI:GILIPOLLAS@C2P2: "¿Porqué me insultas amo Luque? ¿No tengo bastante con lo que me pasa? ¿Quién me pone la pierna encima para que no levante cabeza?"
+ACTI:ERES GILIPOLLAS@C2P2: "Pues tu pasa el Pronto y yo el paño."
+ACTI:MARICON@C2P2: "¿Porqué me insultas amo Luque? ¿No tengo bastante con lo que me pasa? ¿Quién me pone la pierna encima para que no levante cabeza?"
+ACTI:ERES MARICON@C2P2: "Pues tu pasa el Pronto y yo el paño."
+ACTI:C2P2, ¿DONDE HAS ESTADO METIDO TODO ESTE TIEMPO?@"Es una larga historia amo Luque. Todo es culpa de R3D2 y su manía de meterse donde no le llaman."
+ACTI:¿QUIÉN ES EL ROBOT CON FORMA DE TAMBOR?@C2P2 dice: "Es R3D2, juntos hemos escapado de una nave del Imperio. ¡Ayuda, amo Luque!"
+ACTI:¿QUÉ LE PASA A TU AMIGO?@Moviendo los brazos C2P2 dice: "La arena ha atascado algunos de sus circuítos."
+ACTI:C2P2, ANDA ÉCHAME UNA MANO.@Amo Luque, no hay tiempo que perder, la princesa Paca necesita nuestra ayuda.
+AUTO:002@C2P2, anda échame una mano.@
+AUTO:002@C2P2, ¿cómo estás?@
+AUTO:004@C2P2, ¿donde has estado metido todo este tiempo?@
+AUTO:004@C2P2, ¿cómo estas?@
+AUTO:004@C2P2, ¿qué estáis haciendo?@
+AUTO:004@¿Quién es el robot con forma de tambor?@
+AUTO:004@¿Qué le pasa a tu amigo?@
+RAND:C2P2: "Amo Luque, debemos darnos prisa, la princesa Paca está en peligro."
+RAND:C2P2: "Amo Luque, la arena no es nada buena para nuestros circuítos."
+RAND:C2P2: "Con un buen paño y Pronto, dejaba el desierto niquelado de limpio."
+RAND:C2P2: "Si tengo que seguir aquí con la cabeza de chorlito de R3D2, ¡prefiero ser formateado, amo Luque!"
+RAND:C2P2: "¿Donde habré dejado el Pronto...?"
+RAND:C2P2: "¿Quien me pone la pierna encima para que no levante cabeza?"
+RAND:C2P2: "Te lo dije R3D2, no es bueno saltar de naves espaciales en marcha."
+ASKE:
+GIVE:002
+SUIC:
+PUSH:
+FOLL:001
+//////////
+##########
+LOCA:017
+NAME:JAMONEANO
+SYNO:DEPENDIENTE
+TEXT:Al fondo, envuelto en la tenue luz de un único globo-luz, está el dependiente un Jamoneano, parece que está ocupado.
+DESC:Los Jamoneanos son del planeta Jabugo, son comerciantes muy habilidosos. Hay varias especies, que se distinguen por el color. Éste, por su color oscuro, te hace sospechar que es Ibérico.
+IMAG:actor_jamoneano
+KILL:FALSE
+ACTI:COMO ESTAS@Jamoneano: "Bastante liado pero si tienes algo de interés te puedo atender."
+ACTI:QUE PASA@Jamoneano: "A mi nada, ¿y a ti?" Dice con cara de pocos amigos.
+ACTI:QUE OCURRE@Jamoneano: "A mi nada, ¿y a ti?" Dice con cara de pocos amigos.
+ACTI:HOLA@El Jamoneano dice: "¡Hola tú! ¿Tienes algo de interés para mi?"
+ACTI:ALLUDAME@Jamoneano: "¿Tienes algo para darme o venderme?"
+ACTI:ALLUDA@Jamoneano: "No tengo porqué. ¿Tienes algo para darme o venderme? En otro caso, tengo trabajo."
+ACTI:COMO LLAMAS@Jamoneano: "Cómo me puso mi padre. A ti que te importa. ¿Tienes algo que pueda interesarme?"
+ACTI:CUAL NOMBRE@Jamoneano: "Cómo me puso mi padre. A ti que te importa. ¿Tienes algo que pueda interesarme?"
+ACTI:DONDE VIVES@Jamoneano: "En mi casa."
+ACTI:DONDE ESTA TU CASA@Jamoneano: "Tengo mucho que hacer. ¿Tienes algo que pueda interesarme? sino márchate."
+ACTI:CUAL ES TU CASA@Jamoneano: "Tengo mucho que hacer. ¿Tienes algo que pueda interesarme? sino márchate."
+ACTI:QUE HACES@Jamoneano: "Inventario, hay muchas cosas que tengo que organizar. ¿Tienes algo que pueda interesarme? sino márchate."
+ACTI:HOLA, ¿QUÉ VENDES DE INTERÉS?@Jamoneano: "Ahora mismo nada, estoy haciendo inventario, pero si tienes algo interesante que quieras enseñarme.... quizás podamos hacer negocios."
+ACTI:¿EN QUÉ ESTÁS INTERESADO?@Jamoneano: "Tu enseñame que llevas y yo te digo si me interesa o no."
+ACTI:HOLA, SOY UN CABALLERO HEAVY, SOY DE CONFIANZA, ASI QUE PUEDES FIARME.@Jamoneano: "Y yo soy Batman y tengo un traje de cuero negro ceñidito, ceñidito. Si tienes algo interesante que enseñarme podemos hacer negocios, sino lárgate."
+AUTO:017@Hola, ¿qué vendes de interés?@
+AUTO:017@Hola, soy un Caballero Heavy, soy de confianza, asi que puedes fiarme.@
+AUTO:017@¿En qué estás interesado?@
+RAND:Jamoneano: "Tengo mucho trabajo, no me hagas perder el tiempo. ¿Qué quieres?"
+RAND:Jamoneano: "Ahora mismo no hay nada en venta, vuelve en otro momento y quizás haya acabado de hacer inventario."
+RAND:Jamoneano: "¿Buscas algo? Estoy haciendo inventario, no tengo mucho tiempo ni paciencia."
+RAND:Jamoneano: "¿Qué se te ofrece? ¿tienes algo de interés para mi?" 
+ASKE:
+SUIC:
+GIVE:006
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:015
+NAME:DEPENDIENTE
+TEXT:El dependiente de la tienda está muy nervioso.
+DESC:Tiene sus cinco ojos estrábicos, y le sudan mucho las numerosas patas que salen de su cuerpo. Sin lugar a dudas es un Cucarachano.
+IMAG:actor_dependiente
+KILL:FALSE
+ACTI:COMO ESTAS@El dependiente dice: "Estoy bien gracias. Ahora si me disculpa, estoy cerrando la tienda."
+ACTI:QUE PASA@El dependiente dice: "¿Ocurrir? A parte del movimiento de los planetas, nada de especial. Por favor, estoy cerrando."
+ACTI:QUE OCURRE@El dependiente dice: "¿Ocurrir? A parte del movimiento de los planetas, nada de especial. Por favor, estoy cerrando."
+ACTI:HOLA@El dependiente dice: "¡Hola tú!, por favor estoy cerrando, si no le importa marcharse se lo agradecería."
+ACTI:ALLUDAME@El dependiente dice: "La mejor ayuda que puedo ofrecerle es que se marche señor."
+ACTI:ALLUDA@El dependiente dice: "La mejor ayuda que puedo ofrecerle es que se marche señor."
+ACTI:COMO LLAMAS@El dependiente dice: "No es asunto tuyo. Lo siento señor, pero estoy cerrando."
+ACTI:CUAL NOMBRE@El dependiente dice: "No es asunto tuyo. Lo siento señor, pero estoy cerrando."
+ACTI:DONDE VIVES@El dependiente dice: "Creo que eso no es asunto suyo. Estoy cerrando, es mejor que se vaya."
+ACTI:DONDE ESTA TU CASA@El dependiente dice: "Creo que eso no es asunto suyo. Estoy cerrando, es mejor que se vaya."
+ACTI:CUAL ES TU CASA@El dependiente dice: "Creo que eso no es asunto suyo. Estoy cerrando, es mejor que se vaya."
+ACTI:QUE HACES@El dependiente dice: "Estoy cerrando para irme a casa, ¿no lo ves?"
+ACTI:PORQUE LLORAS@El dependiente dice: "Porque quiero que se vaya de aquí y no me hace caso."
+ACTI:IDIOTA@El dependiente dice: "Con esa aptitud no conseguiras nada en la vida muchachote. Estoy cerrando, por favor, salga de la tienda."
+ACTI:ERES IDIOTA@El dependiente dice: "¡Largo de aquí!", y cada ojo se le mueve en direcciones diferentes.
+ACTI:BUENAS, PARECE QUE HAY RUIDOS RAROS EN LA TRASTIENDA.@El dependiente, mirando la puerta muy nervioso, dice: "¿Ruidos? Yo no oigo nada. Porfillo, debe irse."
+ACTI:¿QUÉ TIENES DE INTERÉS?.@El dependiente dice: "Ahora mismo nada, por favor, salga de aquí, estoy cerrando."
+AUTO:015@Buenas, parece que hay ruidos raros en la trastienda.@
+AUTO:015@¿Qué tienes de interés?.@
+AUTO:015@Sabes, hace un calor que tetorras.@
+RAND:Dependiente: "Por favor, estamos cerrando, no hay nada a la venta." 
+RAND:Dependiente: "Lo siento, pero no puedo atenderle en este momento."
+RAND:Dependiente: "La tienda está cerrada, vuelva mañana." Dice moviendo cada uno de sus cinco ojos en diferentes sentidos y direcciones.
+RAND:Dependiente: "Ahora mismo estaba cerrando. No puede atenderle, vuelva mañana."
+ASKE:
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:255
+NAME:JUANSOLO
+SYNO:PILOTO
+SYNO:JUAN
+TEXT:Juansolo
+DESC:Juansolo es famoso por transportar contrabando entre planetas sorteando a las fuerzas imperiales Karapalistas. Tiene una fama y una reputación enorme aunque no parece ser alguien de quien te puedas fiar.
+IMAG:actor_juan
+KILL:FALSE
+ACTI:COMO ESTAS@Juansolo: "¡Bastante bien!, lárgate y déjame tranquilo o te voy a tener que presentar a mi amigo Chequevaca."
+ACTI:QUE PASA@Juansolo: "A mi nada, pero a ti pueden pasarte cosas malas si no te comportas."
+ACTI:QUE OCURRE@Juansolo: "A mi nada, pero a ti pueden pasarte cosas malas si no te comportas."
+ACTI:HOLA@Juansolo dice: "No me molestes."
+ACTI:AYUDAME@Juansolo dice: "Claro hombre, tu trae bitcoins para que ésta relación fluya como el water."
+ACTI:AYUDA@Juansolo dice: "¿Me has visto con cara de Juansolo Sin Fronteras? Trae dinero primero."
+ACTI:COMO LLAMAS@Juansolo: "Me llamo Juansolo, ¿porqué quieres saberlo?."
+ACTI:CUAL NOMBRE@Juansolo: "Me llamo Juansolo, ¿a quién le interesa mi nombre?."
+ACTI:DONDE VIVES@Juansolo: "¿Has venido sólo a preguntarme por donde vivo?"
+ACTI:DONDE ESTA TU CASA@Juansolo: "El espacio es mi casa mamoncete."
+ACTI:CUAL ES TU CASA@Juansolo: "El espacio es mi casa mamoncete."
+ACTI:QUE HACES@Con cara de pocos amigos Juansolo dice: "Tomarme una galactochiva hasta que me has interrumpido." 
+ACTI:IDIOTA@Juansolo: "¿A qué eso no me lo dices fuera chavalin?"
+ACTI:ERES IDIOTA@Juansolo: "¡Largo de aquí!"
+ACTI:NECESITAMOS UNA NAVE ESPACIAL, QUE SEA RÁPIDA Y DISCRETA.@Juansolo, te dice: "Y yo necesito una galactochiva muy fria, no te jode. ¿Tienes bitcoins?"
+ACTI:HOLA, ¿ERES JUANSOLO?@Juansolo, te observa de arriba abajo y dice: "¿Quien lo pregunta y porqué?"
+ACTI:SOY MARTIN LUQUE SKYWALKER, APRENDIZ DE CABALLERO HEAVY.@"Ahhhhh! ahora me siento mucho más seguro. ¿Y?"
+ACTI:¿TIENES UNA NAVE ESPACIAL?@Juansolo da un sorbo a su galactochiva, y dice: "Sí, el Halcón Millonario, la mejor nave de toda la galaxia."
+ACTI:¿QUIÉN ES EL PELUDO?@Chequevaca da un golpe en la mesa. Juansolo dice: "¡Cuidado, amigo! A Chequevaca no le gusta que le llamen peludo."
+ACTI:VEN CONMIGO Y TENDRÁS BITCOINS.@Juansolo dice: "¿Crees que soy estupido o una ONG? Primero los bitcoins."
+ACTI:TENEMOS QUE DESPEGAR CUANTO ANTES.@Juansolo dice: "¡Pues da la ordén por teclado tio! No voy a hacerlo yo todo."
+ACTI:ESTA NAVE ES UN ASCO.@Juansolo dice: "¡Retira eso ahora mismo!, en el espacio se mueve como un pez en el agua."
+ACTI:¿SEGURO QUE ESTA NAVE PUEDE VOLAR?@Indignado ante la pregunta, Juansolo dice: "Las apariencias engañan, esto es una máquina de precisión."
+AUTO:014@Necesitamos una nave espacial, que sea rápida y discreta.@
+AUTO:014@Hola, ¿eres Juansolo?@
+AUTO:014@Soy Martin Luque Skywalker, aprendiz de Caballero Heavy.@
+AUTO:014@¿Tienes una nave espacial?@
+AUTO:014@¿Quién es el peludo?@
+AUTO:014@Ven conmigo y tendrás bitcoins.@
+AUTO:022@Tenemos que despegar cuanto antes.@
+AUTO:022@Esta nave es un asco.@
+AUTO:022@¿Seguro que esta nave puede volar?@
+RAND:Juan Solo: "Me encantan los bitcoins y aunque puedan tener la cara de Karapalo no me importa."
+RAND:Juan Solo: "El Halcón Millonario, ¡jamás abrás visto una nave como la mía!"
+RAND:Juan Solo: "¡No entiendo nada de lo que dices! ¿Estás hablando en balleno, chico?"
+ASKE:
+SUIC:
+GIVE:007
+PUSH:
+FOLL:008
+//////////
+##########
+LOCA:255
+NAME:CHEQUEVACA
+TEXT:Chequevaca
+DESC:¡Jodo! Tiene una altura de más de dos metros, y una pinta simio que asusta. No parece muy listo y tiene cara tonto y dos dientes a lo Bob Esponja, pero a fuerza bruta no le gana nadie.
+IMAG:actor_chequevaca
+KILL:FALSE
+ACTI:UGGGUGUUGUGHHH, AAGHHHAGHAHH!!@Chequevaca dice: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+ACTI:GUUAAUAUAUU!! AUGHHTA!!!!@Chequevaca dice: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+AUTO:001@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:001@Guuaauauauu!! Aughhta!!!!
+AUTO:002@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:002@Guuaauauauu!! Aughhta!!!!
+AUTO:003@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:003@Guuaauauauu!! Aughhta!!!!
+AUTO:004@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:004@Guuaauauauu!! Aughhta!!!!
+AUTO:005@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:005@Guuaauauauu!! Aughhta!!!!
+AUTO:006@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:006@Guuaauauauu!! Aughhta!!!!
+AUTO:007@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:007@Guuaauauauu!! Aughhta!!!!
+AUTO:008@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:008@Guuaauauauu!! Aughhta!!!!
+AUTO:009@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:009@Guuaauauauu!! Aughhta!!!!
+AUTO:010@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:010@Guuaauauauu!! Aughhta!!!!
+AUTO:011@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:011@Guuaauauauu!! Aughhta!!!!
+AUTO:012@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:012@Guuaauauauu!! Aughhta!!!!
+AUTO:013@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:013@Guuaauauauu!! Aughhta!!!!
+AUTO:014@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:014@Guuaauauauu!! Aughhta!!!!
+AUTO:015@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:015@Guuaauauauu!! Aughhta!!!!
+AUTO:016@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:016@Guuaauauauu!! Aughhta!!!!
+AUTO:017@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:017@Guuaauauauu!! Aughhta!!!!
+AUTO:018@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:018@Guuaauauauu!! Aughhta!!!!
+AUTO:019@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:019@Guuaauauauu!! Aughhta!!!!
+AUTO:020@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:020@Guuaauauauu!! Aughhta!!!!
+AUTO:021@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:021@Guuaauauauu!! Aughhta!!!!
+AUTO:022@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:022@Guuaauauauu!! Aughhta!!!!
+AUTO:023@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:023@Guuaauauauu!! Aughhta!!!!
+AUTO:024@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:024@Guuaauauauu!! Aughhta!!!!
+AUTO:025@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:025@Guuaauauauu!! Aughhta!!!!
+RAND:Chequevaca: "Uggguguugughhhh, aaghhhaghahh!!"
+RAND:Chequevaca: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+RAND:Chequevaca: "Ahghhahsah ughhg arghahshh!!!"
+RAND:Chequevaca: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+RAND:Chequevaca: "Nor, norrrrhthtata!!! arght!!"
+ASKE:
+SUIC:
+PUSH:
+FOLL:008
+//////////
+##########
+LOCA:014
+NAME:SAPO
+SYNO:SAPOIDE
+SYNO:RANA
+SYNO:CARA SAPO
+SYNO:CARA RANA
+SYNO:RANOIDE
+KILL:TRUE@CACHIPORRA@Usas la cachiporra luz y golpeas al sapo... ¡Ya no hay sapo, solo humo!. Se oyen gritos en la puerta, y aparecen dos individuos muy extraños. Uno parece un símio de dos metros de alto, está cubierto de pelo y solo de verlo asusta. El otro, es un tirillas que parece el jefe. Puedes oir como algunos les saludan por su nombre son Juansolo y Chequevaca. Obi dice: "La reputación de Juansolo es terrible, pero dicen que tiene una nave muy rápida."@1
+TEXT:Un sapoide verdoso, con barba de tres días, que se vuelve hacia ti y te dice: "¡No me gusta tu cara, Flanagan!"
+DESC:Originario del planeta Sapostistan. Es de color verde y huele de pena, no parece muy listo y a pesar de su tamaño, tampoco muy fuerte.
+IMAG:actor_sapoide
+ACTI:COMO ESTAS@Sapoide: "¡He dicho que no me gusta tu cara Flanagan"
+ACTI:QUE PASA@Sapoide: "¡A mi, nada! Tu pronto tendrás dolor de cabeza.
+ACTI:QUE OCURRE@Sapoide: "¿Porque no te marchas por donde has venido?"
+ACTI:HOLA@Sapoide: "Qué yo sepa no te conozco de nada, y no me gusta esa cara que tienes. ¡Asi que largo!"
+ACTI:ALLUDAME@Sapoide: "¡Tu lo flipas solo!"
+ACTI:ALLUDA@Sapoide: "¡No quiero! ¡Asi que largo!"
+ACTI:COMO LLAMAS@Sapoide: "¡Largo de aquí!, te la estas jugando."
+ACTI:CUAL NOMBRE@Sapoide: "¡Largo de aquí!, te la estas jugando."
+ACTI:PORQUE ESTAS DE TAN MAL HUMOR@Sapoide: "¡Preguntas demasiado! Te la estás jugando."
+ACTI:DONDE VIVES@Sapoide: "¡A ti que coño te importa donde vivo!"
+ACTI:DE DONDE ERES@Sapoide: "¡A ti que coño te importa de donde soy!"
+ACTI:DONDE ESTA TU CASA@Sapoide: "¡A ti que coño te importa donde vivo!"
+ACTI:CUAL ES TU CASA@Sapoide: "¿Acaso crees que soy Elfito? ¡A ti que coño te importa donde vivo!"
+ACTI:QUE HACES@Sapoide: "Pues mira, aquí estoy apunto de romperte el lomo con una vara."
+ACTI:¿QUÉ ES LO QUE HACES AQUÍ?@Sapoide: "Pues mira, estoy apuntito de romperte el lomo con una vara."
+ACTI:IDIOTA@Sapoide: "¡Tu padre!, si sabes quien es claro."
+ACTI:HOLA, SOY MARTIN LUQUE SKYWALKER Y TÚ, ¿QUIÉN ERES?@Sapoide, te dice: "¿Tú eres tonto, verdad chaval?"
+ACTI:¡MIRA QUIEN HABLA! EL PRIMO DE GUSTAVO.@Sapoide, te dice: "¿Sabes? Te voy a crujiirrrr viiiiiivooooooorrrrrr."
+ACTI:¡DÉJAME EN PAZ O VAS A LAMENTARLO!@Sapoide, te dice: "¡Vaya! El gallito se pone chulo, y ¿qué vas a hacer, pasarme el Pronto por la chepa?"
+AUTO:014@Hola, soy Martin Luque Skywalker y tú, ¿quién eres?@
+AUTO:014@¡Mira quien habla! El primo de Gustavo.@
+AUTO:014@¡Déjame en paz o vas a lamentarlo!@
+ACTI:014@¿Qué es lo que haces aquí?@
+ACTI:014@¿Qué es lo que haces aquí?@
+RAND:Sapoide: "Será mejor que te vayas de aquí si no quieres tener problemas."
+RAND:Sapoide: "No me gusta la cara que tienes, igual tengo que hacerte un poco de cirugía."
+RAND:Sapoide: "¿Me estás vacilando?" Dice sacando la lengua de su bocaza y capturando una pobre mosca que pasaba por alli.
+RAND:Sapoide: "Estás sentado en mi sitio, ¡largo de aquí!"
+ASKE:
+SUIC:
+PUSH:
+FOLL:
+//////////
+//////////
+##########
+LOCA:012
+NAME:BICHO
+SYNO:BICHO AZUL
+SYNO:RAMONCHU
+KILL:FALSE
+TEXT:Un bicho azul, se acerca a ti y te dice: "¡Dameeeeee aaaaaallggggoooooooo, chachoooo, que me han requisao la frugoneta espacial con los marracatones."
+DESC:Es un bicho de un fuerte color azul, cuyo aliento apesta a ajo, te recuerda a alguien... pero no consigues saber a quien.
+IMAG:actor_blue_bug
+ACTI:COMO ESTAS@Bicho: "Pero como quierrres que esteeee, si me han requisao la frugonetra de los marracatones."
+ACTI:¿CÓMO ESTÁS?@Bicho: "Pero como quierrres que esteeee, si me han requisao la frugonetra de los marracatones."
+ACTI:QUE PASA@Bicho: "¡A mi, nada! Tu pronto tendrás dolor de cabeza.
+ACTI:¿QUÉ TE PASA?@Bicho: "Buscando argo que llevarr pa la casa la Juani. Me han requisaito la furgroneta y los marragatones."
+ACTI:QUE OCURRE@Bicho: "Buscando argo que llevarr pa la casa la Juani. Me han requisaito la furgroneta y los marragatones."
+ACTI:HOLA@Bicho: "¡Dameeeeee aaaaaallggggoooooooo, chachoooo, que me han requisao la frugoneta espacial con los marracatones."
+ACTI:ALLUDAME@Bicho: "¡Ayr amirgo!, ya me gustaría, pero tengo que volvé con la Juaniiii y los churumbeeeeeeles."
+ACTI:ALLUDA@Bicho: "¡Ayr amirgo!, no puedooorrr, si no llevo algo a la Juani me cruje to vivooo con la sartene de Magefesa."
+ACTI:COMO LLAMAS@Bicho, te dice: "Yo soy Ramonchú, el de la frugonetraaaaaaa."
+ACTI:CUAL NOMBRE@Bicho, te dice: "Yo soy Ramonchú, el de la frugonetraaaaaaa."
+ACTI:DONDE VIVES@Bicho, te dice: "Pues no muy lejos, primero tira pa'ca y luego pa'lla, gira un poco y luego a la izquierda, y listo."
+ACTI:DONDE ESTA TU CASA@Bicho, te dice: "Pues no muy lejos, primero tira pa'ca y luego pa'lla, gira un poco y luego a la izquierda, y listo."
+ACTI:CUAL ES TU CASA@Bicho, te dice: "Pues no muy lejos, primero tira pa'ca y luego pa'lla, gira un poco y luego a la izquierda, y listo."
+ACTI:QUE HACES@Bicho: "Buscando argo que llevarr pa la casa la Juani. Me han requisaito la furgroneta y los marragatones."
+ACTI:¿QUÉ ES LO QUE HACES AQUÍ?@Bicho: "Pues pidiendo, tú tienes cara de buena gente, anda darme algo quillo!"
+ACTI:IDIOTA@Bicho: "¡Cómo se lo diga al paaapppaaaa te va a enterar chacho!"
+ACTI:SUBNORMAL@Bicho: "¡Cómo se lo diga al paaapppaaaa te va a enterar chacho!"
+ACTI:IDIOTA@Bicho: "¡Cómo se lo diga al paaapppaaaa te va a enterar chacho!"
+ACTI:HOLA, SOY MARTIN LUQUE SKYWALKER Y TÚ, ¿QUIÉN ERES?@Bicho, te dice: "Yo soy Ramonchú, el de la frugonetraaaaaaa."
+ACTI:¿QUIÉN SE HA LLEVADO TU FURGONETA ESPACIAL?@Bicho moviendo los brazos en aspavientos dice: "¡Pues quienn va a serrr chiiicoo! Los tios del tricornio, que se creen que to es suyo."
+ACTI:¿QUÉ QUIERES QUE TE DÉ?@Bicho dice: "Pos algo con lo que pelarle los marracatonessss a la Juani sería de mucha urtilidadadddd."
+ACTI:¿QUIÉN ES LA JUANI?@Bicho dice: "Pos quien va a ser, la parienta. Ay chacho, que desgraciato soy. Si pudiera llevarla argo ainss!"
+AUTO:012@Hola, soy Martin Luque Skywalker y tú, ¿quién eres?@
+AUTO:012@¿Quién se ha llevado tu furgoneta espacial?@
+AUTO:012@¿Qué quieres que te dé?@
+AUTO:012@¿Quién es la Juani?@
+AUTO:012@¿Qué es lo que haces aquí?@
+AUTO:012@¿Qué te pasa?@
+RAND:Bicho: "¡Unar aryudiiiitaaa! que tengo a los churrumbeles en la casa con la Juaniiiiii."
+RAND:Bicho: "¡Mardita sea mi sombra!, sin frugoneta y sin nada que llevar a la Juanii y a los churumbeles." 
+RAND:Bicho: ""
+RAND:Bicho: ""
+ASKE:
+GIVE:005
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:019
+NAME:CHAVALA
+SYNO:CARA SARDINA
+SYNO:CARA PEZ
+SYNO:BESUGINA
+SYNO:CHRIS
+KILL:FALSE
+TEXT:Una maciza chavala, de piel color azul sardina, está tras unos mostradores repletos de catálogos.
+DESC:Lo cierto es que la chavala tiene un cuerpo de escándalo, apenas cubierto por unas piezas de ropa de lo más cortas. Es una pena la cara de sardina que tiene, y es que las Besuginas nunca han sido tu tipo.
+IMAG:actor_besugina
+ACTI:COMO ESTAS@Chris: "Pues aquí pasando el rato, hoy no ha venido mucha gente por aquí."
+ACTI:¿CÓMO ESTÁS?@Chris: "Pues aquí pasando el rato, hoy no ha venido mucha gente por aquí."
+ACTI:QUE PASA@Chris: "¡A mi nada! ¿tienes algún problema tú qué yo pueda arreglar?" Y te guiña un ojo.
+ACTI:¿QUÉ TE PASA?@Chris: "¡A mi nada! ¿tienes algún problema tú qué yo pueda arreglar?" Y te guiña un ojo.
+ACTI:QUE OCURRE@Chris: "¡A mi nada! ¿tienes algún problema tú qué yo pueda arreglar?" Y te guiña un ojo.
+ACTI:HOLA@Chris: "Hola guapo!, ¿quieres hacer un viaje espacial?"
+ACTI:ALLUDAME@Chris dice: "¡Claro!, ¿qué necesitas?"
+ACTI:ALLUDA@Chris dice: "¡Claro!, ¿qué necesitas?"
+ACTI:COMO LLAMAS@Chris, te dice: "Yo soy Chris, la encargada del hangar y organizadora de viajes espaciales."
+ACTI:CUAL NOMBRE@Chris, te dice: "Yo soy Chris, la encargada del hangar y organizadora de viajes espaciales."
+ACTI:DONDE VIVES@Chris, te dice: "¿No crees que es demasiado pronto para eso descarado?" 
+ACTI:DONDE ESTA TU CASA@Chris, te dice: "¿No crees que es demasiado pronto para eso descarado?"
+ACTI:CUAL ES TU CASA@Te dice: "¿No crees que es demasiado pronto para eso descarado?"
+ACTI:QUE HACES@Chris: "Hoy poca cosa, no hay mucha gente interesada en cruceros espaciales."
+ACTI:¿QUÉ ES LO QUE HACES AQUÍ?@Besugina: "Hoy poca cosa, no hay mucha gente interesada en cruceros espaciales."
+ACTI:IDIOTA@Chris: "¿No crees que eres muy mal educado?"
+ACTI:SUBNORMAL@Chris: "¿Es así cómo conquistas a las chicas? Tienes que pasar las noches muy solito, cielo."
+ACTI:IDIOTA@Chris: "¿Tú no tienes novia, verdad?"
+ACTI:HOLA, SOY MARTIN LUQUE SKYWALKER Y TÚ, ¿QUIÉN ERES?@Chris: "Hola, yo soy Chris! ¿Tienes algún cuerpo geométrico de interés para mi?"
+ACTI:¿QUIERO ENTRAR EN EL HANGAR?@Chris: "Cariño, eso es muy fácil, busca un piloto espacial y podrás entrar si te acompaña."
+ACTI:¿DONDE PUEDO ENCONTRAR PILOTOS?@La Besugina muy sonriente te dice: "Toda la ciudad está repleta de ellos, solo hay que buscar."
+ACTI:QUIERO HACER UN VIAJE.@Chris: "¡Perfecto! Nosotros reservamos el espaciohotel y las atracciones allí, pero la nave y el piloto tienes que ponerlo tú." Y a la vez que lo dice, parpadea coqueta.
+AUTO:019@Hola, soy Martin Luque Skywalker y tú, ¿quién eres?@
+AUTO:019@¿Donde puedo encontrar pilotos?@
+AUTO:019@¿Quiero entrar en el hangar?@
+ACTI:019@¿Cómo estás?@
+ACTI:019@Quiero hacer un viaje.
+RAND:Chris: "¡Hola encanto!, ¿Quieres hacer un viaje espacial? Tenemos grandes descuentos."
+RAND:Chris: "Los mejores viajes de toda la galaxia pueden ser contratados aquí, si tienes bitcoins claro." 
+RAND:Chris: "Trae tu piloto y una nave y nosotros nos encargamos de organizar las mejores vacaciones espaciales de todo el universo." 
+RAND:Chris: "Me encantan los cuerpos geométricos, es lo que más me pone." 
+ASKE:
+GIVE:005
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:018
+NAME:BELLEZAS
+SYNO:PUTAS
+SYNO:PROSTITUTAS
+SYNO:BELLEZA
+TEXT:En unos sofás están recostadas despampanantes mostruosidades alienigenas lujuriosamente provistas, que se te insinúan con descaro.
+DESC:Hembras de diferentes especies, emitiendo ferhormonas y en aptitud de cópula inminente.
+IMAG:actor_beauty
+KILL:FALSE
+ACTI:COMO ESTAIS@Bellezas: "Hola guapo!!"
+ACTI:QUE PASA@Bellezas: "A nosotras nada, pero si te dejas, a ti te puede ocurrir de todo".
+ACTI:QUE OCURRE@Bellezas: "A nosotras nada, pero si te dejas, a ti te puede ocurrir de todo".
+ACTI:HOLA@Las bellezas alienígenas te sonríen a la vez que muestran un poco de cacha.
+ACTI:ALLUDAME@Una de las bellezas te dice: "Claro precioso, tu danos bitcoins."
+ACTI:ALLUDA@Una de las bellezas te dice: "Claro precioso, tu danos bitcoins."
+ACTI:COMO LLAMAS@Bellezas: "¿Qué nombre quieres que tengamos?, eso lo eliges tú, macizote!"
+ACTI:CUAL NOMBRE@Bellezas: "¿Qué nombre quieres que tengamos?, eso lo eliges tú, macizote!"
+ACTI:DONDE VIVES@Bellezas: "Servicio a domicilio, donde tu vayas, vamos nosotras."
+ACTI:DONDE ESTA TU CASA@Bellezas: "Servicio a domicilio, donde tu vayas, vamos nosotras."
+ACTI:CUAL ES TU CASA@Bellezas: "Servicio a domicilio, donde tu vayas, vamos nosotras."
+ACTI:QUE HACES@Bellezas: "Pues ya ves, aquí recaudando fondos para pagarnos los estudios de medicina que dejamos a la mitad. Y eramos tan buenas estudiantes. A mi me encantaba la asignatura de anatomía." Añade sonriendote con dulzura.
+ACTI:HOLA GUAPAS, ¿PASANDO EL TIEMPO?@Bellezas: "¿Tú que crees?" Dice una de ellas, dejando uno de sus hombros al descubierto.
+ACTI:ME LLAMO MARTIN, ¿QUÉ ESTÁIS HACIENDO?@Bellezas: "Pues ya ves, aquí recaudando fondos para pagarnos los estudios de medicina que dejamos a la mitad. Y eramos tan buenas estudiantes. A mi me encantaba la asignatura de anatomía." Añade sonriendote con dulzura.
+ACTI:HOLA CHICAS, SOY UN CABALLERO HEAVY, SOY DE CONFIANZA, ASI QUE ME PODEIS FIAR.@Los bellezones alienígenas te miran y dicen: "Claro, claro cariño, ¿nos has visto con caras de pertenecer a la FSF (Fulanas Sin Fronteras)?"
+AUTO:018@Hola chicas, soy un caballero heavy, soy de confianza, asi que me podeis fiar.@
+AUTO:018@Hola guapas, ¿pasando el tiempo?.@
+AUTO:018@Me llamo Martin, ¿qué estáis haciendo?@
+RAND:Las bellezas te sonríen y dicen: "Hola guapo! ¿vienes con nosotras?"
+RAND:Las alienígenas te guiñan un ojo y sonriendote dicen: "¡Esto si que son jamones y no los que echa tu madre al cocido! Ven aquí guapo!"
+RAND:Las bellezas moviendose sensualmente dicen: "Quédate con nosotras y te haremos el hombre más feliz del planeta."
+RAND:Las bellezas dicen: "¿Te gusta lo que ves? Debajo de la ropa hay aún más cosas interesantes." 
+ASKE:
+SUIC:
+GIVE:009
+PUSH:
+FOLL:
+//////////

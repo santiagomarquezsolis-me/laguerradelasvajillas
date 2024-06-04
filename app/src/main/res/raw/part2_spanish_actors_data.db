@@ -1,0 +1,561 @@
+&&&&&&&&&&
+##########
+LOCA:001
+NAME:OBI
+SYNO:MAESTRO
+SYNO:CABALLERO
+SYNO:ANCIANO
+SYNO:HEAVY
+KILL:FALSE
+TEXT:Obi Juan Que-no-vé.
+DESC:Aunque no lo parezca, por su atuendo está claro que es un Maestro Heavy de la Fuerza, y probablemente el último que queda.
+IMAG:actor_obi
+ACTI:COMO ESTAS@Obi Juan: "Aquí pasando el rato en la Estrella Pringosa. No debemos entreternos demasiado, es peligroso."
+ACTI:HOLA, ¿CÓMO ESTÁS?@Obi Juan: "Aquí pasando el rato en la Estrella Pringosa. No debemos entreternos demasiado, es peligroso."
+ACTI:QUE PASA@Obi Juan: "Es mejor dejarnos de charlas y acabar la misión cuanto antes."
+ACTI:QUE OCURRE@Obi Juan: "Luque, presiento que el universo está en peligro."
+ACTI:HOLA@Obi Juan: Te dice: "¡Hola tú! ¿Cómo te va la vida? ¿Acabamos el juego o no?"
+ACTI:ALLUDAME@Obi Juan: "Tenemos que salir de la Estrella Pringosa cuanto antes."
+ACTI:ALLUDA@Obi Juan: "Hay que salir de la Estrella Pringosa. Hay que buscar a la princesa y desactivar el rayo tractor."
+ACTI:COMO LLAMAS@Obi Juan: "Obi Juan Que-no-vé, y tú eres Martin Luque Skywalker."
+ACTI:CUAL NOMBRE@Obi Juan: "Obi Juan Que-no-vé. ¿Ya no te acuerdas?"
+ACTI:QUIEN ERES@Obi Juan: "Soy Obi Juan Que-no-vé. Caballero Heavy de la Fuerza. ¿Por esto ya hemos pasado no?"
+ACTI:QUE HACES@Obi Juan: "Ayudarte a que finalicemos el juego. Vamos, vamos, chavalote."
+ACTI:ME GUSTÁN TUS GAFAS, ¿ME LAS PRESTAS?@Obi dice: "Tú estás tonto o qué. Porqué crees que me llamo QUE-NO-VE, ainss esto va a ser duro para los dos."
+ACTI:HOLA, SOY MARTIN LUQUE SKYWALKER Y TÚ, ¿QUIÉN ERES?@¡Hola tú! ¿Cómo te va la vida? Yo soy, el Maestro Heavy Obi One Que-no-vé.
+ACTI:POR FAVOR, ¿PUEDES AYUDARME?@Respondeme pequeño saltamontes, ¿cual es el nombre del creador de una famosa película de galaxias y guerras?
+ACTI:MENUDO CALOR HACE AQUÍ.@Como diría una amiga mía "hace un calor que tetorras".
+ACTI:IDIOTA@001
+ACTI:ERES IDIOTA@001
+ACTI:ERES SUBNORMAL@001
+ACTI:ERES FEO@001
+ACTI:OBI, AYÚDAME POR FAVOR, ¿QUÉ HAGO?@Obi dice: "No desesperes, tenemos que salir de la Estrella Pringosa con la princesa."
+ACTI:¿HACIA DONDE VAMOS?@Obi dice: "Las celdas están en la zona inferior de la Estrella, del resto no tengo ni idea."
+ACTI:¿DONDE ESTÁ MI PADRE?@Obi dice: "Pues..... fue a por tabaco y no volvió. Igual no le gustaba tener un hijo tan cargante como tú."
+ACTI:¿CÓMO DESACTIVAMOS EL RAYO?@Obi dice: "Desde el puesto de mando de la Estrella y con ayuda de R3D2."
+ACTI:OBI, ¿QUÉ HACEMOS?@Obi dice: "¿Tú que crees? Pues salvar a la princesa y salir de aquí."
+AUTO:001@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:001@¿Hacia donde vamos?@
+AUTO:001@¿Donde está mi padre?@
+AUTO:001@¿Cómo desactivamos el rayo?@
+AUTO:001@Obi, ¿qué hacemos?@
+AUTO:002@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:002@¿Hacia donde vamos?@
+AUTO:002@¿Donde está mi padre?@
+AUTO:002@¿Cómo desactivamos el rayo?@
+AUTO:002@Obi, ¿qué hacemos?@
+AUTO:003@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:003@¿Hacia donde vamos?@
+AUTO:003@¿Donde está mi padre?@
+AUTO:003@¿Cómo desactivamos el rayo?@
+AUTO:003@Obi, ¿qué hacemos?@
+AUTO:004@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:004@¿Hacia donde vamos?@
+AUTO:004@¿Donde está mi padre?@
+AUTO:004@¿Cómo desactivamos el rayo?@
+AUTO:004@Obi, ¿qué hacemos?@
+AUTO:005@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:005@¿Hacia donde vamos?@
+AUTO:005@¿Donde está mi padre?@
+AUTO:005@¿Cómo desactivamos el rayo?@
+AUTO:005@Obi, ¿qué hacemos?@
+AUTO:006@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:006@¿Hacia donde vamos?@
+AUTO:006@¿Donde está mi padre?@
+AUTO:006@¿Cómo desactivamos el rayo?@
+AUTO:006@Obi, ¿qué hacemos?@
+AUTO:007@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:007@¿Hacia donde vamos?@
+AUTO:007@¿Donde está mi padre?@
+AUTO:007@¿Cómo desactivamos el rayo?@
+AUTO:007@Obi, ¿qué hacemos?@
+AUTO:008@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:008@¿Hacia donde vamos?@
+AUTO:008@¿Donde está mi padre?@
+AUTO:008@¿Cómo desactivamos el rayo?@
+AUTO:008@Obi, ¿qué hacemos?@
+AUTO:009@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:009@¿Hacia donde vamos?@
+AUTO:009@¿Donde está mi padre?@
+AUTO:009@¿Cómo desactivamos el rayo?@
+AUTO:009@Obi, ¿qué hacemos?@
+AUTO:010@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:010@¿Hacia donde vamos?@
+AUTO:010@¿Donde está mi padre?@
+AUTO:010@¿Cómo desactivamos el rayo?@
+AUTO:010@Obi, ¿qué hacemos?@
+AUTO:011@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:011@¿Hacia donde vamos?@
+AUTO:011@¿Donde está mi padre?@
+AUTO:011@¿Cómo desactivamos el rayo?@
+AUTO:011@Obi, ¿qué hacemos?@
+AUTO:012@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:012@¿Hacia donde vamos?@
+AUTO:012@¿Donde está mi padre?@
+AUTO:012@¿Cómo desactivamos el rayo?@
+AUTO:012@Obi, ¿qué hacemos?@
+AUTO:013@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:013@¿Hacia donde vamos?@
+AUTO:013@¿Donde está mi padre?@
+AUTO:013@¿Cómo desactivamos el rayo?@
+AUTO:013@Obi, ¿qué hacemos?@
+AUTO:014@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:014@¿Hacia donde vamos?@
+AUTO:014@¿Donde está mi padre?@
+AUTO:014@¿Cómo desactivamos el rayo?@
+AUTO:014@Obi, ¿qué hacemos?@
+AUTO:015@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:015@¿Hacia donde vamos?@
+AUTO:015@¿Donde está mi padre?@
+AUTO:015@¿Cómo desactivamos el rayo?@
+AUTO:015@Obi, ¿qué hacemos?@
+AUTO:016@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:016@¿Hacia donde vamos?@
+AUTO:016@¿Donde está mi padre?@
+AUTO:016@¿Cómo desactivamos el rayo?@
+AUTO:016@Obi, ¿qué hacemos?@
+AUTO:017@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:017@¿Hacia donde vamos?@
+AUTO:017@¿Donde está mi padre?@
+AUTO:017@¿Cómo desactivamos el rayo?@
+AUTO:017@Obi, ¿qué hacemos?@
+AUTO:018@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:018@¿Hacia donde vamos?@
+AUTO:018@¿Donde está mi padre?@
+AUTO:018@¿Cómo desactivamos el rayo?@
+AUTO:018@Obi, ¿qué hacemos?@
+AUTO:019@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:019@¿Hacia donde vamos?@
+AUTO:019@¿Donde está mi padre?@
+AUTO:019@¿Cómo desactivamos el rayo?@
+AUTO:019@Obi, ¿qué hacemos?@
+AUTO:020@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:021@¿Hacia donde vamos?@
+AUTO:022@¿Donde está mi padre?@
+AUTO:023@¿Cómo desactivamos el rayo?@
+AUTO:024@Obi, ¿qué hacemos?@
+AUTO:025@Obi, ayúdame por favor, ¿qué hago?@
+AUTO:025@¿Hacia donde vamos?@
+AUTO:025@¿Donde está mi padre?@
+AUTO:025@¿Cómo desactivamos el rayo?@
+AUTO:025@Obi, ¿qué hacemos?@
+RAND:Obi Juan: "¿Qué dices pequeño saltamontes?"
+RAND:Obi Juan: "Martin Luque Skywalker, debemos darnos prisa y acabar la misión."
+RAND:Obi Juan: "Hola. ¿Estás hablando en balleno? No consigo entender lo que dices."
+RAND:Obi Juan: "Querido Martin, no hablas muy claro".
+RAND:Obi Juan: "No he entendido ni papa."
+ASKE:
+GIVE:
+PUSH:
+SUIC:
+FOLL:002
+//////////
+##########
+LOCA:001
+NAME:R3D2
+KILL:FALSE
+SYNO:ANDROIDE
+SYNO:ANDROIDES
+SYNO:CASCARRABIAS
+SYNO:CASCARRABIA
+SYNO:TAMBOR
+SYNO:ROBOT
+TEXT:El cascarrabias de R3D2.
+DESC:Del tamaño un poco mayor que un tambor de detergente, R3D2 es un robot regordete de comunicaciones y guíado de cazas espaciales de combate. Parece que la arena, tiene oxidado parte de sus mecanismos.
+IMAG:actor_r3d2
+ACTI:COMO ESTAS@R3D2 dice: "Piririru piruru, pipi ruru."
+ACTI:QUE PASA@R3D2 dice: "Piririru piruru, pipi ruru."
+ACTI:QUE OCURRE@R3D2 dice: "Piriri piriru piruru, pipi ruru."
+ACTI:HOLA@R3D2 dice: "Piriri piriru piruru, pipi ruru."
+ACTI:ALLUDAME@R3D2 dice: "Piriri piriru piruru, con la pata de palo nem!."
+ACTI:ALLUDA@R3D2 dice: "¿Piriri piriru piruru?, pipi ruru."
+ACTI:COMO LLAMAS@R-3D2: "Pipipi rupipiru"
+ACTI:CUAL NOMBRE@R-3D2: "Pipipi rupipiru pi pi pipiripi"
+ACTI:DONDE VIVES@R-3D2: "Pipipi rupipiru"
+AUTO:001@Piririru piruru@
+AUTO:001@Piri pirureriru piruru@
+AUTO:001@¿Pipipi rupipiru ruru?@
+AUTO:002@Piririru piruru@
+AUTO:002@Piri pirureriru piruru@
+AUTO:002@¿Pipipi rupipiru ruru?@
+AUTO:003@Piririru piruru@
+AUTO:003@Piri pirureriru piruru@
+AUTO:003@¿Pipipi rupipiru ruru?@
+AUTO:004@Piririru piruru@
+AUTO:004@¿Pipipi rupipiru ruru?@
+AUTO:005@Piririru piruru@
+AUTO:005@¿Pipipi rupipiru ruru?@
+AUTO:006@Piririru piruru@
+AUTO:006@¿Pipipi rupipiru ruru?@
+AUTO:007@Piririru piruru@
+AUTO:007@¿Pipipi rupipiru ruru?@
+AUTO:008@Piririru piruru@
+AUTO:008@¿Pipipi rupipiru ruru?@
+AUTO:009@Piririru piruru@
+AUTO:009@¿Pipipi rupipiru ruru?@
+AUTO:010@Piririru piruru@
+AUTO:010@¿Pipipi rupipiru ruru?@
+AUTO:011@Piririru piruru@
+AUTO:011@¿Pipipi rupipiru ruru?@
+AUTO:012@Piririru piruru@
+AUTO:012@¿Pipipi rupipiru ruru?@
+AUTO:013@Piririru piruru@
+AUTO:013@¿Pipipi rupipiru ruru?@
+AUTO:014@Piririru piruru@
+AUTO:004@¿Pipipi rupipiru ruru?@
+AUTO:014@Piririru piruru@
+AUTO:015@¿Pipipi rupipiru ruru?@
+AUTO:015@Piririru piruru@
+AUTO:016@¿Pipipi rupipiru ruru?@
+AUTO:016@Piririru piruru@
+AUTO:017@¿Pipipi rupipiru ruru?@
+AUTO:017@Piririru piruru@
+AUTO:018@¿Pipipi rupipiru ruru?@
+AUTO:018@Piririru piruru@
+AUTO:019@¿Pipipi rupipiru ruru?@
+AUTO:019@Piririru piruru@
+AUTO:020@¿Pipipi rupipiru ruru?@
+AUTO:020@Piririru piruru@
+AUTO:021@¿Pipipi rupipiru ruru?@
+AUTO:021@Piririru piruru@
+AUTO:022@¿Pipipi rupipiru ruru?@
+AUTO:022@Piririru piruru@
+AUTO:023@¿Pipipi rupipiru ruru?@
+AUTO:023@Piririru piruru@
+AUTO:024@¿Pipipi rupipiru ruru?@
+AUTO:024@Piririru piruru@
+AUTO:025@¿Pipipi rupipiru ruru?@
+AUTO:025@Piririru piruru@
+RAND:R-3D2: "Pipipi rupipiru"
+RAND:R-3D2: "Pipipi rupipiru pi pi pipiripi"
+RAND:R-3D2: "¿Pipipi rupi rupipippiru?"
+ASKE:
+GIVE:
+SUIC:
+PUSH:
+FOLL:001
+//////////
+##########
+LOCA:001
+NAME:C2P2
+SYNO:ANDROIDE
+SYNO:ANDROIDES
+SYNO:ROBOT
+KILL:FALSE
+TEXT:Tu viejo C2P2.
+DESC:C2P2, es un robot de un suave color rosa palo super chulo. Lo creastes cuando aún eras un crio, y era un mayordomo ideal, todo lo mantenía límpio y ordenado. Su frase favorita era "tu pasa el Pronto y yo el paño."
+IMAG:actor_c2p2
+ACTI:¿COMO ESTAS?@C2P2: "¡Con mucho miedito! ¡Ay, amo Luque, vámonos de aquí."
+ACTI:C2P2, ¿CÓMO ESTAS?@C2P2: "¡Con mucho miedito! ¡Ay, amo Luque, vámonos de aquí. No tenemos mucho tiempo, la princesa Paca está en grave peligro."
+ACTI:QUE PASA@C2P2: "¡Con mucho miedito! ¡Ay, amo Luque, vámonos de aquí. No tenemos mucho tiempo, la princesa Paca está en grave peligro."
+ACTI:QUE OCURRE@C2P2: "¡Con mucho miedito! ¡Ay, amo Luque, vámonos de aquí. No tenemos mucho tiempo, la princesa Paca está en grave peligro."
+ACTI:HOLA@C2P2 te dice: "Amo Luque!!, ¡Hola amo Luque!"
+ACTI:ALLUDAME@C2P2: "¡Si no tuviera tanto miedo igual podría hacerlo, Amo Luque."
+ACTI:ALLUDA@C2P2: "¡Es que me tiemblan las piernas del miedo!"
+ACTI:COMO LLAMAS@C2P2: "Me llamo C2P2. ¡Tu pasa el Pronto y yo el paño!"
+ACTI:CUAL NOMBRE@Elfito: "Me llamo C2P2. ¿No me recuerda amo Luque?"
+ACTI:DONDE HAS ESTADO@C2P2: "Es una larga historia amo Luque."
+ACTI:QUE HACES@C2P2: "Si tengo que seguir con la cabeza de chorlito de R3D2 como única compañía, ¡prefiero ser formateado, amo Luque!""
+ACTI:C2P2, ¿QUÉ ESTÁIS HACIENDO?@C2P2: "Si tengo que seguir con la cabeza de chorlito de R3D2 como única compañía, ¡prefiero ser formateado, amo Luque!""
+ACTI:IDIOTA@C2P2: "¿Porqué me insultas amo Luque? ¿No tengo bastante con lo que me pasa? ¿Quién me pone la pierna encima para que no levante cabeza?"
+ACTI:ERES IDIOTA@C2P2: "Pues tu pasa el Pronto y yo el paño."
+ACTI:C2P2, ¿DONDE HAS ESTADO METIDO TODO ESTE TIEMPO?@"Es una larga historia amo Luque. Todo es culpa de R3D2 y su manía de meterse donde no le llaman."
+ACTI:C2P2, ANDA ÉCHAME UNA MANO.@Amo Luque, no hay tiempo que perder, la princesa Paca necesita nuestra ayuda.
+AUTO:001@C2P2, anda échame una mano.@
+AUTO:002@C2P2, anda échame una mano.@
+AUTO:003@C2P2, anda échame una mano.@
+AUTO:004@C2P2, anda échame una mano.@
+AUTO:005@C2P2, anda échame una mano.@
+AUTO:006@C2P2, anda échame una mano.@
+AUTO:007@C2P2, anda échame una mano.@
+AUTO:008@C2P2, anda échame una mano.@
+AUTO:009@C2P2, anda échame una mano.@
+AUTO:010@C2P2, anda échame una mano.@
+AUTO:011@C2P2, anda échame una mano.@
+AUTO:012@C2P2, anda échame una mano.@
+AUTO:013@C2P2, anda échame una mano.@
+AUTO:014@C2P2, anda échame una mano.@
+AUTO:015@C2P2, anda échame una mano.@
+AUTO:016@C2P2, anda échame una mano.@
+AUTO:017@C2P2, anda échame una mano.@
+AUTO:018@C2P2, anda échame una mano.@
+AUTO:019@C2P2, anda échame una mano.@
+AUTO:020@C2P2, anda échame una mano.@
+AUTO:021@C2P2, anda échame una mano.@
+AUTO:022@C2P2, anda échame una mano.@
+AUTO:023@C2P2, anda échame una mano.@
+AUTO:024@C2P2, anda échame una mano.@
+AUTO:025@C2P2, anda échame una mano.@
+RAND:C2P2: "Amo Luque, debemos darnos prisa, la princesa Paca está en peligro."
+RAND:C2P2: "Con un buen paño y Pronto, dejaba este sitio niquelado de limpio."
+RAND:C2P2: "Si tengo que seguir aquí con la cabeza de chorlito de R3D2, ¡prefiero ser formateado, amo Luque!"
+RAND:C2P2: "¿Donde habré dejado el Pronto...?"
+RAND:C2P2: "¿Quien me pone la pierna encima para que no levante cabeza?"
+RAND:C2P2: "Te lo dije R3D2, no es bueno saltar de naves espaciales en marcha."
+ASKE:
+GIVE:
+SUIC:
+PUSH:
+FOLL:001
+//////////
+##########
+LOCA:001
+NAME:JUANSOLO
+SYNO:PILOTO
+TEXT:Juansolo
+DESC:Juansolo es famoso por transportar contrabando entre planetas sorteando a las fuerzas imperiales Karapalistas. Tiene una fama y una reputación enorme aunque no parece ser alguien de quien te puedas fiar.
+IMAG:actor_juan
+KILL:FALSE
+ACTI:COMO ESTAS@Juansolo: "¡Bastante bien!, pero con ganas de salir de aquí cuanto antes."
+ACTI:QUE PASA@Juansolo: "¡Bastante bien!, pero con ganas de salir de aquí cuanto antes."
+ACTI:QUE OCURRE@Juansolo: "Pues ocurre que como no salgamos pronto nos van a dar para el pelo."
+ACTI:HOLA@Juansolo dice: "No me molestes con saluditos y acaba la misión."
+ACTI:AYUDAME@Juansolo dice: "¿Y qué es lo que llevo haciendo desde que salimos de Tutuflex?"
+ACTI:AYUDA@Juansolo dice: "¿Y qué es lo que llevo haciendo desde que salimos de Tutuflex?"
+ACTI:COMO LLAMAS@Juansolo: "Me llamo Juansolo, ¿ya lo has olvidado?."
+ACTI:CUAL NOMBRE@Juansolo: "Me llamo Juansolo, ¿¿ya lo has olvidado o estás senil?."
+ACTI:QUE HACES@Juansolo: "Tratar de mantenernos con vida, y ¿tú, cómo va lo tuyo?"
+ACTI:IDIOTA@Juansolo: "¿Perdiendo el tiempo con insultos? ¡Lo llevamos claro."
+ACTI:ERES IDIOTA@Juansolo: "¡Largo de aquí y ponte a acabar el juego mamoncete!"
+ACTI:¿EL HALCÓN FUNCIONARÁ CUANDO NOS MARCHÉMOS?@Indignado ante la pregunta, Juansolo dice: "Las apariencias engañan, esto es una máquina de precisión y no fallará."
+ACTI:¿CÓMO LO LLEVAS?@Juansolo dice: "Pues aquí, cubriendo la posición. ¿No sería mejor que te dedicarás a solucionar los problemas que tenemos?"
+AUTO:001@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:002@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:003@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:004@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:005@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:006@¿El Halcón funcionará cuando nos marchémos?@
+AUTO:007@¿Cómo lo llevas?@
+RAND:Juan Solo: "Creo que no logro entender lo que dices."
+RAND:Juan Solo: "El Halcón Millonario, ¡jamás una nave recorrió tanto universo!"
+RAND:Juan Solo: "¡No entiendo nada de lo que dices! ¿Estás hablando en balleno, chico?"
+ASKE:
+SUIC:
+GIVE:
+PUSH:
+FOLL:004
+//////////
+##########
+LOCA:001
+NAME:CHEQUEVACA
+TEXT:Chequevaca
+DESC:¡Jodo! Tiene una altura de más de dos metros, y una pinta simio que asusta. No parece muy listo y tiene cara tonto y dos dientes a lo Bob Esponja, pero a fuerza bruta no le gana nadie.
+IMAG:actor_chequevaca
+KILL:FALSE
+ACTI:UGGGUGUUGUGHHH, AAGHHHAGHAHH!!@Chequevaca dice: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+ACTI:GUUAAUAUAUU!! AUGHHTA!!!!@Chequevaca dice: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+AUTO:001@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:001@Guuaauauauu!! Aughhta!!!!
+AUTO:002@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:002@Guuaauauauu!! Aughhta!!!!
+RAND:Chequevaca: "Uggguguugughhhh, aaghhhaghahh!!"
+RAND:Chequevaca: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+RAND:Chequevaca: "Ahghhahsah ughhg arghahshh!!!"
+RAND:Chequevaca: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+RAND:Chequevaca: "Nor, norrrrhthtata!!! arght!!"
+ASKE:
+SUIC:
+PUSH:
+FOLL:005
+//////////
+##########
+LOCA:025
+NAME:PACA
+SYNO:PRINCESA
+SYNO:HOLGAZANA
+TEXT:Sobre el catre de molibdeno, yace la esbelta figura de la princesa Paca Holgazana.
+DESC:¡Guauuuuu!!!!
+IMAG:actor_paca
+KILL:FALSE
+ACTI:COMO ESTAS@Paca dice: "Pues al lado de tan buen mozo, ¡genial!"
+ACTI:QUE PASA@Paca dice: "Tenemos que salir de aquí cuanto antes."
+ACTI:QUE OCURRE@Paca dice: "Se nos acaba el tiempo, tenemos que escapar." Dice desconsolada.
+ACTI:HOLA@Paca dice: "¡Hola macizo!" 
+ACTI:ALLUDAME@Paca dice: "¿No se supone que eres tú quien tiene que ayudarme a mi?"
+ACTI:ALLUDA@Paca dice: "¿No se supone que eres tú quien tiene que ayudarme a mi?"
+ACTI:COMO LLAMAS@Paca dice: "Princesa Paca Holgazana del Amor Hermoso y Hermosilla."
+ACTI:CUAL NOMBRE@Paca dice: "Princesa Paca Holgazana del Amor Hermoso y Hermosilla."
+ACTI:DONDE VIVES@Paca dice: "¿Porqué? ¿quieres que te enseñe mi dormitorio tunante?."
+ACTI:DONDE ESTA TU CASA@Paca dice: "¿Porqué? ¿quieres que te enseñe mi dormitorio tunante?."
+ACTI:CUAL ES TU CASA@Paca dice: "¿Porqué? ¿quieres que te enseñe mi dormitorio tunante?."
+ACTI:QUE HACES@Paca dice: "Punto de Cruz, no te jode con la pregunta!!!"
+ACTI:IDIOTA@Paca dice: "¡Y yo que pensaba que estaba ante un caballero!"
+ACTI:ERES IDIOTA@Paca dice: "¡Y yo que pensaba que estaba ante un caballero!"
+ACTI:SOY MARTIN LUQUE SKYWALKER, Y VENGO A SALVARTE.@Paca te mira con ojitos y dice: "Macizo, yo te dejo que me salves las veces que tu quieras."
+ACTI:CUANDO ACABEMOS CON TODO ESTO ¿PODEMOS TOMAR UNA COPA?@Paca dice: "¿Solo una copa? Tengo un tintorro del pueblo, que hace crecer pelo en el pecho y no sólo en el pecho precioso."
+AUTO:025@Soy Martin Luque Skywalker, y vengo a salvarte.
+AUTO:025@Cuando acabemos con todo esto ¿podemos tomar una copa?
+RAND:Paca: "Pero ¿qué dices encanto?"
+RAND:Paca: "¡No entiendo nada de lo que dices! ¿Estás hablando en balleno?" 
+RAND:Paca: "Vamos bombón, seguro que puedes explicarte mejor."
+ASKE:
+SUIC:
+PUSH:
+FOLL:006
+//////////
+##########
+LOCA:024
+NAME:WONGA
+TEXT:Un enorme, hambriento y peludo Wonga.
+DESC:Afortunadamente y para ti, el peludo Wonga está encadenado de brazos y piernas con una cadena muy resistente aunque suficientemente larga como para que pueda moverse con ciertas limitaciones.
+IMAG:actor_wonga
+KILL:FALSE
+ACTI:UGGGUGUUGUGHHH, AAGHHHAGHAHH!!@El Wonga dice: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+ACTI:GUUAAUAUAUU!! AUGHHTA!!!!@El Wonga dice: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+AUTO:024@Uggguguugughhhh, aaghhhaghahh!!
+AUTO:024@Guuaauauauu!! Aughhta!!!!
+RAND:El Wonga dice: "Uggguguugughhhh, aaghhhaghahh!!"
+RAND:El Wonga dice: "Guuaauauauu!! Aughhta!!!! asquito de vidagagagh!!."
+RAND:El Wonga dice: "Ahghhahsah ughhg arghahshh!!!"
+RAND:El Wonga dice: "Uggghhhhghhhghhghhghhghhehehghghhgh aserejehheahr."
+RAND:El Wonga dice: "Nor, norrrrhthtata!!! arght!!"
+ASKE:
+GIVE:007
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:020
+NAME:COCINERO
+TEXT:Un robot ataviado con un gorro blanco está presto a satisfacer tus deseos (alimenticios, por supuesto).
+DESC:Carece de piernas y forma parte del mostrador. Tiene un gorro de cocinero de lo más chulo.
+IMAG:actor_cook
+KILL:FALSE
+ACTI:COMO ESTAS@El robot cocinero dice: "Bepp, beep. Bien, cocinando un rato, ¿y tú?. Beep, beep."
+ACTI:HOLA@El robot cocinero dice: Te dice: "Beep, beep. ¡Hola tú! ¿Una hamburguesa? Beep, beep."
+ACTI:ALLUDAME@El robot cocinero dice: "Beep, beep. ¡No quiero! Busca un robot ayudante. Beep, beep."
+ACTI:ALLUDA@El robot cocinero dice: "Beep, beep. ¡No quiero! Busca un robot ayudante. Beep, beep."
+ACTI:COMO LLAMAS@El robot cocinero dice: "Beep, beep. Beep, beep."
+ACTI:CUAL NOMBRE@El robot cocinero dice: "Beep, beep. Beep, beep."
+ACTI:QUE HACES@El robot cocinero dice: "Beep, beep. Aquí cocinando, ¿quieres una hamburguesa?. Beep, beep."
+ACTI:IDIOTA@El robot cocinero dice: "Beep, beep. ¡No sé! igual si preguntamos a los soldados puedan darnos su opinión. Beep, beep."
+ACTI:ERES IDIOTA@El robot cocinero dice: "Beep, beep. ¡No sé! igual si preguntamos a los soldados puedan darnos su opinión. Beep, beep. "
+ACTI:SIGUEME@El robot cocinero dice: "Beep, beep. No puedo ni quiero moverme de aquí. Beep, beep."
+ACTI:VEN CONMIGO@El robot cocinero dice: "Beep, beep. No puedo ni quiero moverme de aquí. Beep, beep."
+ACTI:ACOMPAÑAME@El robot cocinero dice: "Beep, beep. No puedo ni quiero moverme de aquí. Beep, beep."
+ACTI:VEN@El robot cocinero dice: "Beep, beep. Claro hombre, lo que tú digas. Beep, beep."
+ACTI:HOLA, ¿QUÉ ESTÁS COCINANDO?@El robot cocinero dice: "Beep, beep. Hamburgesas señor, ricas y sabrosas hamburgesas. Beep, beep."
+ACTI:¿ME DAS UNA HAMBURGUESA, POR FAVOR?@El robot cocinero dice: "Beep, beep. Claro señor, pero primero quiero bitcoins. Beep, beep."
+ACTI:¡ESO HUELE DE MARAVILLA!@El robot cocinero dice: "Beep, beep. Gracias señor, son de auténtica vacanoide asturiana. Por unos bitcoins puede llevarse una. Beep, beep."
+ACTI:SOY MARTIN LUQUE SKYWALKER Y ESTOY HAMBRIENTO.@El robot cocinero dice: "Beep, beep. Me alegro mucho, pero sin bitcoins no hay comida. Beep, beep."
+ACTI:ERES UN POCO PESADO CON TANTO BEEP.@El robot cocinero dice: "Beep, beep. No todos podemos ser tan listos como tú. Beep, beep."
+AUTO:020@Hola, ¿qué estás cocinando?@
+AUTO:020@¿Me das una hamburguesa, por favor?@
+AUTO:020@¡Eso huele de maravilla!@
+AUTO:020@Soy Martin Luque Skywalker y estoy hambriento.@
+AUTO:020@Eres un poco pesado con tanto beep.@
+RAND:Robot cocinero: "Beep, beep. Cocinero, cocinero, enciendeme la candela y prepara con esmero un arroz con habichuelas. Beep, beep."
+RAND:Robot cocinero: "Beep, beep. El futuro es muy oscuro trabajando en el fogón. Beep, beep."
+RAND:Robot cocinero: "Beep, beep. ¡Hamburguesas! ¡ricas hamburguesas de vacanoide asturiana!. Beep, beep."
+RAND:Robot cocinero: "Beep, beep. Beep, beep."
+RAND:Robot cocinero: "Beep, beep. Cocinando espero, al hombre que yo más quiero.  Beep, beep."
+ASKE:
+SUIC:
+GIVE:003
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:022
+NAME:OJO
+TEXT:Un gran ojo bionico, en el techo, lo vigila todo.
+DESC:Sirve como mecanismo de vigilancia y control, puede moverse por el techo gracias a unos raíles.
+IMAG:actor_eye
+KILL:FALSE
+ACTI:HOLA@Al ojo bionico no parece que le interese lo que le dices.
+ACTI:ALLUDAME@El ojo bionico se mueve por el techo, y algunas luces se activan.
+ACTI:ALLUDA@Ves como el ojo bionico enfoca tu cara, parece que estuviera tratando de identificarte.
+ACTI:COMO LLAMAS@Al ojo bionico no parece que le interese lo que le dices.
+ACTI:CUAL NOMBRE@El ojo bionico se mueve por el techo, y algunas luces se activan.
+ACTI:QUE HACES@Ves como el ojo bionico enfoca tu cara, parece que estuviera tratando de identificarte.
+ACTI:IDIOTA@ACTI:PORQUE LLORAS@Elfito: "¡Quiero volver a casa. Por favor ayudame!"
+ACTI:ERES IDIOTA@Ves como el ojo bionico enfoca tu cara, parece que estuviera tratando de identificarte.
+AUTO:022@Hola Ojo, ¿qué tal?.@
+AUTO:022@¿Y qué?, ¿vigilando mucho?@
+AUTO:022@¿Ha habido muchas fugas últimamente?@
+AUTO:022@Yo soy Martín Luque, para servirle a Dios y a usted.@
+RAND:Al ojo bionico no parece que le interese lo que le dices.
+RAND:El ojo bionico se mueve por el techo, y algunas luces se activan.
+RAND:Ves como el ojo bionico enfoca tu cara, parece que estuviera tratando de identificarte.
+ASKE:
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:015
+NAME:DARTH
+TEXT:El terrible y poderoso, a la vez que oloroso, Darth Water.
+DESC:Es el caballero del Lado Sucio más poderoso que haya existido jamás, su maestría con la cachiporraluz es legendaria.
+IMAG:actor_water
+KILL:FALSE
+ACTI:COMO ESTAS@Darth Water dice: "Hola Luque, ¿no sientes como la fuerza del lado sucio te llama?"
+ACTI:QUE PASA@Darth Water dice: "Uffff, ufffff, ufffff. Que pronto ya no estaras vivo. Uffff, ufffff, ufffff."
+ACTI:QUE OCURRE@Darth Water dice: "¿Sabes donde está mi casa?, por favor, ayudame." Dice desconsolado.
+ACTI:HOLA@Darth Water dice: "Uffff, ufffff, ufffff. ¡Ha llegado tu hora! Uffff, ufffff, ufffff. Pronto estarás con tu padre.Uffff, ufffff, ufffff. "
+ACTI:ALLUDAME@Darth Water dice: "Uffff, ufffff, ufffff. Únete al Lado Sucio y descubrirás un mundo nuevo de posibilidades y olores. Uffff, ufffff, ufffff. "
+ACTI:ALLUDA@Darth Water dice: "Uffff, ufffff, ufffff. El mejor consejo que puedo darte es que no te resistas y te unas al Lado Sucio. Uffff, ufffff, ufffff. "
+ACTI:COMO LLAMAS@Darth Water dice: "Uffff, ufffff, ufffff. Yo soy Darth Water, y pronto vas a unirte con tu padre jovén Skywalker. Uffff, ufffff, ufffff. "
+ACTI:CUAL NOMBRE@Darth Water dice: "Uffff, ufffff, ufffff. Yo soy Darth Water, y pronto vas a unirte con tu padre jovén Skywalker. Uffff, ufffff, ufffff. "
+ACTI:IDIOTA@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:ERES IDIOTA@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:SUBNORMAL@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:ERES SUBNORMAL@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:TONTO@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:ERES TONTO@Darth Water dice: "Uffff, ufffff, ufffff. Estoy seguro que no eres tan hábil con los puños como con la lengua. Uffff, ufffff, ufffff. "
+ACTI:¡DEJAMÉ PASAR Y NO TE HARÉ DAÑO!.@Darth Water dice: "Uffff, ufffff, ¿Estás seguro? Yo desayuno tres como tú. Uffff, ufffff." dirigiendo su cachiporraluz hacia tu careto.
+ACTI:¡JODER MACHO! ¿SE TE HA MUERTO EL DESODORANTE? ¡QUÉ OLOR!@Darth Water dice: "Uffff, ufffff, ¡Lo ves Luque!, ves como comienzas a sentir el poder del lado sucio. Uffff, ufffff."
+ACTI:Voy a destruir la Estrella Pringosa, salvar a la princesa Paca y acabar contigo antes de cenar esta noche.@Darth Water dice: "Uffff, ufffff. No estés tan seguro de eso. El poder del lado sucio acabará contigo. Uffff, ufffff."
+ACTI:YO SOY MARTÍN LUQUE, EL CABALLERO HEAVY MÁS PODEROSO DEL UNIVERSO.@Darth Water dice: "Uffff, ufffff, tu padre LimpiAquí SkyWalker tal vez podría hacerme sombra, pero tú, ja, ja, ja, Uffff, ufffff, quiero decir Uffff, ufffff."
+AUTO:015@¡Dejamé pasar y no te haré daño!.@
+AUTO:015@¡Joder macho! ¿Se te ha muerto el desodorante? ¡Qué olor!@
+AUTO:015@Voy a destruir la Estrella Pringosa, salvar a la princesa Paca y acabar contigo antes de cenar esta noche.@
+AUTO:015@Yo soy Martín Luque, el caballero Heavy más poderoso del Universo.@
+RAND:Darth Water dice: "Uffff, ufffff, ufffff. Hola Luque, Uffff, ufffff, ufffff, ¿no sientes como la fuerza del lado sucio te llama? Uffff, ufffff, ufffff"
+RAND:Darth Water dice: "Uffff, ufffff, Obi has hecho un buen trabajo con el chico, Uffff, ufffff, es una pena que ahora vaya a morir."
+RAND:Darth Water dice: "Uffff, ufffff, ¿Sabes que te voy a crujir vivo? Uffff, ufffff."
+ASKE:
+SUIC:
+PUSH:
+FOLL:
+//////////
+##########
+LOCA:018
+NAME:GUANTE
+SYNO:GUANTEBOT
+TEXT:Un Guantebot con cara de pocos amigos está en el ring.
+DESC:Es como un guante de boxeo pero hiperdesarrollado y musculado. Tiene una mala leche de mucho cuidado y ganas de zurrar a alguien. 
+IMAG:actor_bot
+KILL:FALSE
+ACTI:COMO ESTAS@El Guantebot dice: "¡¡¡Te voy a crujir los lomos macho!!!!"
+ACTI:QUE PASA@El Guantebot dice: "A mi nada, pero a ti pronto te va a doler toito el cuerpo."
+ACTI:QUE OCURRE@El Guantebot dice: "A mi nada, pero a ti pronto te va a doler toito el cuerpo."
+ACTI:HOLA@El Guantebot dice: "Menos saludos y más pelea."
+ACTI:ALLUDAME@El Guantebot dice: "Tranquilo, ahora se la pides al de la ambulancia."
+ACTI:ALLUDA@El Guantebot dice: "Claro chavalito, en cuanto te deje destrozado se la pides al de la ambulancia."
+ACTI:COMO LLAMAS@El Guantebot dice: "¿Intentas distraerme? No te va a servir."
+ACTI:CUAL NOMBRE@El Guantebot dice: "¿Intentas distraerme? No te va a servir."
+ACTI:QUE HACES@El Guantebot dice: "¿Intentas distraerme? No te va a servir."
+ACTI:IDIOTA@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:ERES IDIOTA@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:SUBNORMAL@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:ERES SUBNORMAL@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:TONTO@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:ERES TONTO@El Guantebot dice: "Estoy seguro que no eres tan hábil con los puños como con la lengua."
+ACTI:¡DEJAMÉ PASAR Y NO TE HARÉ DAÑO!.@El Guantebot dice: "¿Estás seguro? Te van a doler tus lomos morenos hasta hartarte."
+ACTI:¿NO PODEMOS DEJARLO PARA LUEGO?@El Guantebot dice: "¿Te estás haciendo caquita? Tranquilo, si solo TE VA A DOLER."
+ACTI:VOY A DARTE PERO A BASE DE BIEN.@El Guantebot dice: "Eso vamos a verlo ahorita mismo. ¿Llamo a tu mami antes?"
+ACTI:YO SOY MARTÍN LUQUE, EL CABALLERO HEAVY MÁS PODEROSO DEL UNIVERSO.@El Guantebot dice:: "Mejor, más dulce será mi victoria, y más humillante tu derrota. ¡Pelea cobarde!"
+AUTO:018@¡Dejamé pasar y no te haré daño!.@
+AUTO:018@¿No podemos dejarlo para luego?@
+AUTO:018@Voy a darte pero a base de bien.@
+AUTO:018@Yo soy Martín Luque, el caballero Heavy más poderoso del Universo.@
+RAND:El Guantebot dice: "¡Sube al ring y pelea como un hombre!"
+RAND:El Guantebot dice: "No te va a reconocer ni tu madre de la paliza que te voy a dar. ¡Sube al cuadrilátero!"
+RAND:El Guantebot dice: "¡Cada día meriendo tres como tú y ceno cuatro. ¿Te tiemblan las piernas?"
+ASKE:
+SUIC:
+PUSH:
+FOLL:
+//////////

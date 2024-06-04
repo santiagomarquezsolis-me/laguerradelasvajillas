@@ -1,0 +1,145 @@
+&&&&&&&&&&
+##########
+LOCA:002
+NAME:AUTOPELADOR
+LONG:AUTOPELADOR
+DESC:Es el típico utensilio que no puede faltar en una cocina en medio del desierto, sirve para pelar todo tipo de verduras y hortalizas sin cansarse.
+TEXT:
+DIST:NEAR
+ARTI:El
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_selfpeeler
+//////////
+##########
+LOCA:002
+NAME:LATA
+LONG:LATA DE ACEITE
+DESC:La lata contiene aceite de engrase común, muy utilizado en los motores de las naves espaciales y en la maquinaria interna de robots.
+TEXT:
+DIST:NEAR
+ARTI:La
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_oilcan
+//////////
+##########
+LOCA:007
+NAME:MUNICION
+LONG:MUNICIÓN
+DESC:Se compone de varios cargadores de energía de tamaño estándar. En una pistola resultarían letales.
+TEXT:
+DIST:NEAR
+ARTI:La
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:1
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_munition
+//////////
+##########
+LOCA:008
+NAME:PISTOLA
+LONG:PISTOLA LÁSER
+DESC:No es muy grande, pero a la distancia justa puede ser muy útil. Dispone de un espacio en la culata para introducir cargadores de energía. 
+TEXT:
+DIST:NEAR
+ARTI:La
+STAT:DESCARGADA
+FLUI:FALSE
+LIGH:FALSE
+CONT:TRUE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_gun
+//////////
+##########
+LOCA:255
+NAME:BITCOIN
+LONG:BITCOIN
+DESC:Los bitcoin son la moneda del Imperio, y son fundamentales para cualquier transacción económica. Inventados por Satoshi Nakamoto, un Rebelde sin Causa, cuya identidad permanece en el anonimato, Karapalo decidió aceptarlos en el Imperio por consejo de Darth Water y para falsamente demostrar que era un tirano benévolo. Esta es una tarjeta "RISA", cargada con una buena suma. 
+TEXT:
+DIST:NEAR
+ARTI:Los
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_credits
+//////////
+##########
+LOCA:255
+NAME:CUBO
+LONG:CUBO
+DESC:Es un cubo metálico. Sus caras brillan a la luz del sol. No parece ser algo de mucha utilidad, pero...
+TEXT:
+DIST:NEAR
+ARTI:El
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_cube
+//////////
+##########
+LOCA:255
+NAME:CACHIPORRA
+LONG:CACHIPORRA LUZ
+DESC:Típica cachiporra luminiscente y fundidora, perteneció a tu padre, LimpiAqui Skywalker. Sientes la Fuerza Heavy con solo tocarla.
+TEXT:
+DIST:NEAR
+ARTI:La
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_laser
+//////////
+##########
+LOCA:255
+NAME:PUA
+LONG:PUA DE TITANIO
+DESC:Pincha un montón, y eso que no es muy grande. Las púas de titanio tienen un gran valor en el mercado negro.
+TEXT:Una púa de titanio está a punto de desprenderse del cáctus.
+DIST:NEAR
+ARTI:La
+STAT:NONE
+FLUI:FALSE
+LIGH:FALSE
+CONT:FALSE
+LEVE:-1
+SIZE:5
+SHOW:TRUE
+FOOD:FALSE
+IMAG:inventary_plectrum
+//////////

@@ -1,0 +1,901 @@
+&&&&&&&&&&
+##########
+LOCA:001
+NAME:SILLONES
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:001
+NAME:LUCES
+DESC:De muchos colores, parecen indicar que todo está bien, salvo por eso no les veo mayor utilidad.
+//////////
+##########
+LOCA:001
+NAME:LUZ
+DESC:De muchos colores, parecen indicar que todo está bien, salvo por eso no les veo mayor utilidad.
+//////////
+##########
+LOCA:001
+NAME:TECHO
+DESC:Típico techo de nave espacial. Lo más interesante el buscador Cimanid-2x.
+//////////
+##########
+LOCA:001
+NAME:SILLON
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:001
+NAME:ASIENTO
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:001
+NAME:ASIENTOS
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:001
+NAME:MUELLE
+DESC:¿Eso no debería estar dentro del asiento de mando?
+//////////
+##########
+LOCA:001
+NAME:MUELLES
+DESC:¿Eso no debería estar dentro del asiento de mando?
+//////////
+##########
+LOCA:001
+NAME:PANEL
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:001
+NAME:CONTROLES
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:001
+NAME:CONTROL
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:001
+NAME:PALANCA
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:001
+NAME:PALANCAS
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:001
+NAME:PALANQUITA
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:001
+NAME:BUSCADOR
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:001
+NAME:CIMANID
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:001
+NAME:CIMANID-2X
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:002
+NAME:PASILLO
+DESC:Comunica las diferentes zonas vitales del Halcón Millonario. Está iluminado por diodos led ubicados en el techo.
+//////////
+##########
+LOCA:002
+NAME:CONTENEDOR
+DESC:Es un pequeño armarito que está colgado en una de las paredes, no tiene nada de interés.
+//////////
+##########
+LOCA:002
+NAME:CABLES
+DESC:Muchos de ellos chisporrotean de manera nada alentadora. Yo que tú y por precaución los dejaría en paz.
+//////////
+##########
+LOCA:002
+NAME:CABLE
+DESC:Muchos de ellos chisporrotean de manera nada alentadora. Yo que tú y por precaución los dejaría en paz.
+//////////
+##########
+LOCA:002
+NAME:MINICONTENEDOR
+DESC:Es un pequeño armarito que está colgado en una de las paredes, no tiene nada de interés.
+//////////
+##########
+LOCA:002
+NAME:CONTENEDOR
+DESC:Es un pequeño armarito que está colgado en una de las paredes, no tiene nada de interés.
+//////////
+##########
+LOCA:002
+NAME:ARMARIO
+DESC:Es un pequeño armarito que está colgado en una de las paredes, no tiene nada de interés.
+//////////
+##########
+LOCA:002
+NAME:ARMARITO
+DESC:Es un pequeño armarito que está colgado en una de las paredes, no tiene nada de interés.
+//////////
+##########
+LOCA:002
+NAME:LUCES
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien,¡menos mal!
+//////////
+##########
+LOCA:002
+NAME:LUZ
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:002
+NAME:LUCECITA
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:002
+NAME:LUCECITAS
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:002
+NAME:PANELES
+DESC:Se componen de muchas lucecitas multicolores que dan información sobre el estado de la nave, y por el momento todo parece ir bien, aunque no te fies.
+//////////
+##########
+LOCA:002
+NAME:PANEL
+DESC:Se componen de muchas lucecitas multicolores que dan información sobre el estado de la nave, y por el momento todo parece ir bien, aunque no te fies.
+//////////
+##########
+LOCA:002
+NAME:PARED
+DESC:Las paredes del Halcón son metálicas y recubiertas de una capa de fibra de carbono, aunque ésta, ha desaparecido en muchas partes de la nave, dejando ver el entramado de cables. ¡Dios nos asista en el espacio!
+//////////
+##########
+LOCA:002
+NAME:DIODO
+DESC:Iluminan tenuemente el pasillo de acceso de la nave.
+//////////
+##########
+LOCA:002
+NAME:DIODOS
+DESC:Iluminan tenuemente el pasillo de acceso de la nave.
+//////////
+##########
+LOCA:002
+NAME:TECHO
+DESC:No presenta demasiado buen aspecto y al igual que las paredes, vivió momentos mejores. El tiempo de volver a casa pasó hace mucho.
+//////////
+##########
+LOCA:003
+NAME:SALA
+DESC:Aquí se encuentran las computadoras de hiperespacio. También se utiliza como sala de reunión. Sirve de paso al resto de la nave.
+//////////
+##########
+LOCA:003
+NAME:MESA
+DESC:Situada junto a unas pequeñas taquillas, sirve para todo, desde ver mapas estelares a tomarse un cafetillo.
+//////////
+##########
+LOCA:003
+NAME:TAQUILLA
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:003
+NAME:TAQUILLAS
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:003
+NAME:ARTILUGIOS
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:003
+NAME:ARTILUGIO
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:003
+NAME:COMPUTADORA
+DESC:Son fundamentales para poder viajar por el hiperespacio sin problemas. Se encargan de calcular la ruta de viaje antes del salto y mantener la nave dentro del rumbo.
+//////////
+##########
+LOCA:003
+NAME:COMPUTADORAS
+DESC:Son fundamentales para poder viajar por el hiperespacio sin problemas. Se encargan de calcular la ruta de viaje antes del salto y mantener la nave dentro del rumbo.
+//////////
+##########
+LOCA:004
+NAME:TUBOS
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:TUBO
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:CABLES
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:CABLE
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:FIBRA
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:FIBRA-LUZ
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:FIBRALUZ
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:004
+NAME:MOTORES
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados, están golpeados por varios sitios.
+//////////
+##########
+LOCA:004
+NAME:MOTOR
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados, están golpeados por varios sitios.
+//////////
+##########
+LOCA:004
+NAME:KRUGGER
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados.
+//////////
+##########
+LOCA:005
+NAME:BOTIQUIN
+DESC:¡Qué raro!¡está vacío!, mejor no te hagas ninguna herida.
+//////////
+##########
+LOCA:005
+NAME:PUESTO
+DESC:Es un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda.
+//////////
+##########
+LOCA:005
+NAME:PUESTOS
+DESC:Es un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda.
+//////////
+##########
+LOCA:005
+NAME:TURBOLASER
+DESC:Los turboláser se componen de un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Los turboláseres se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:005
+NAME:TURBOLASERES
+DESC:Los turboláser se componen de un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Los turboláseres se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:005
+NAME:MONITOR
+DESC:En caso de batalla, marcan los objetivos posibles de manera que puedan ser abatidos.
+//////////
+##########
+LOCA:005
+NAME:TORRETA
+DESC:Las torretas se mueven en el sentido que indiques cuando estan activas, apuntando a los objetivos del monitor de búsqueda. Se activan con el comando "ACTIVAR TORRETA".
+//////////
+##########
+LOCA:005
+NAME:TORRETAS
+DESC:Las torretas se mueven en el sentido que indiques cuando estan activas, apuntando a los objetivos del monitor de búsqueda. Se activan con el comando "ACTIVAR TORRETA".
+//////////
+##########
+LOCA:006
+NAME:CONTAINER
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:CAJAS
+DESC:Son containers de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:CAJA
+DESC:Son containers de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:CONTAINERS
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:CONTENEDOR
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:CONTENEDORES
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:006
+NAME:FLOTACAJA
+DESC:Levitan gracias a unos inversores gravitatorios. Están vacías.
+//////////
+##########
+LOCA:006
+NAME:FLOTACAJAS
+DESC:Levitan gracias a unos inversores gravitatorios. Están vacías.
+//////////
+##########
+LOCA:007
+NAME:MAQUINARIA
+DESC:Hay desde elevadores hidráulicos a brazos robóticos de soldadura. Vamos lo normal en un hángar de naves espaciales.
+//////////
+##########
+LOCA:007
+NAME:COLUMNA
+DESC:Son monolítos de metal de los que cuelgan mangeras de alta presión. Sirven para abastecer de combustible a las naves espaciales.
+//////////
+##########
+LOCA:007
+NAME:COLUMNAS
+DESC:Son monolítos de metal de los que cuelgan mangeras de alta presión. Sirven para abastecer de combustible a las naves espaciales.
+//////////
+##########
+LOCA:007
+NAME:HALCON
+DESC:El destartalado Halcón Millonario espera pacientemente a que resuelvas la misión.
+//////////
+##########
+LOCA:007
+NAME:HALCON
+DESC:Pertrechados con sus armaduras de combate están dispuestos para darte caza y captura.
+//////////
+##########
+LOCA:007
+NAME:HANGAR
+DESC:Es un amplio espacio de varios niveles, dispone de varios muelles en hileras donde reposan naves espaciales de transporte de tamaño pequeño y medio. El nivel superior está destinado a los cazas de combate.
+//////////
+##########
+LOCA:007
+NAME:MUELLE
+DESC:En ellos descansan naves espaciales de transporte de diferentes tamaños.
+//////////
+##########
+LOCA:007
+NAME:MUELLES
+DESC:En ellos descansan naves espaciales de transporte de diferentes tamaños.
+//////////
+##########
+LOCA:007
+NAME:NAVES
+DESC:Hay de diversos tipos aunque la mayoría parece que están dedicadas a transportar material para la construcción de la Estrella Pringosa.
+//////////
+##########
+LOCA:007
+NAME:NAVE
+DESC:Hay de diversos tipos aunque la mayoría parece que están dedicadas a transportar material para la construcción de la Estrella Pringosa.
+//////////
+##########
+LOCA:007
+NAME:CAZA
+DESC:Están en el nivel superior del hángar, desde aquí no puedes ver demasiado bien de qué tipo y clase son.
+//////////
+##########
+LOCA:007
+NAME:CAZAS
+DESC:Están en el nivel superior del hángar, desde aquí no puedes ver demasiado bien de qué tipo y clase son.
+//////////
+##########
+LOCA:008
+NAME:TRANSPORTADOR
+DESC:También conocido como ascensor, permite subir y bajar entre plantas. Éste tiene pintada, en una de las puertas, una flecha que indica que sube.
+//////////
+##########
+LOCA:008
+NAME:FLECHA
+DESC:Marca hacia arriba, luego el ascensor solo sube.
+//////////
+##########
+LOCA:009
+NAME:TRANSPORTADOR
+DESC:También conocido como ascensor, permite subir y bajar entre plantas. Éste tiene pintada, en una de las puertas, una flecha que indica que baja.
+//////////
+##########
+LOCA:009
+NAME:FLECHA
+DESC:Marca hacia abajo, luego el ascensor solo baja.
+//////////
+##########
+LOCA:010
+NAME:MESAS
+DESC:Son de soft-billar, un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:MESA
+DESC:Son de soft-billar, un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:SOFT-BILLAR
+DESC:Es un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:SOFTBILLAR
+DESC:Es un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:SOFT
+DESC:Es un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:BILLAR
+DESC:Es un extraño y complicado juego que consiste en introducir flota-bolas de colores en los agujeros de las esquinas.
+//////////
+##########
+LOCA:010
+NAME:ELECTROFUTBOLIN
+DESC:Once por once muñequitos atravesados por un palo y dispuestos a darse una paliza por un balón.
+//////////
+##########
+LOCA:010
+NAME:ELECTRO-FUTBOLIN
+DESC:Once por once muñequitos atravesados por un palo y dispuestos a darse una paliza por un balón.
+//////////
+##########
+LOCA:010
+NAME:ELECTRO
+DESC:Once por once muñequitos atravesados por un palo y dispuestos a darse una paliza por un balón.
+//////////
+##########
+LOCA:010
+NAME:FUTBOLIN
+DESC:Once por once muñequitos atravesados por un palo y dispuestos a darse una paliza por un balón.
+//////////
+##########
+LOCA:010
+NAME:SALA
+DESC:La sala de ocio está iluminada con una luz muy débil, y solamente las meses de soft-billas y el electro-futbolin tienen luz adicional.
+//////////
+##########
+LOCA:010
+NAME:LUZ
+DESC:La luz de la sala son neones de color rosa distribuidos a lo largo de la pared.
+//////////
+##########
+LOCA:010
+NAME:PARED
+DESC:Pues que quieres que te diga, paredes simples y sin gracia ninguna.
+//////////
+##########
+LOCA:011
+NAME:PASILLO
+DESC:Cómo todos los pasillos, es un largo corredor que comunica con otras partes de la Estrella Pringosa. A ambos lados hay holofotos del Emperador Karapalo.
+//////////
+##########
+LOCA:011
+NAME:HOLOFOTO
+DESC:Muestran el horrible rostro del Emperador Karapalo cubierto con su capucha.
+//////////
+##########
+LOCA:011
+NAME:HOLOFOTOS
+DESC:Muestran el horrible rostro del Emperador Karapalo cubierto con su capucha.
+//////////
+##########
+LOCA:011
+NAME:KARAPALO
+DESC:Todo el mundo sabe que Karapalo llegó al poder después de un golpe de Estado. Gobierna con mano de hierro y sólo los Rebeldes sin Causa se interponen en sus maléficos, sucios y mal olorosos planes.
+//////////
+##########
+LOCA:011
+NAME:EMPERADOR
+DESC:Todo el mundo sabe que Karapalo llegó al poder después de un golpe de Estado. Gobierna con mano de hierro y sólo los Rebeldes sin Causa se interponen en sus maléficos, sucios y mal olorosos planes.
+//////////
+##########
+LOCA:012
+NAME:ARMERIA
+DESC:Es una habitación de tamaño mediano y cuyas paredes están cubiertas con estanterias repletas de armas.
+//////////
+##########
+LOCA:012
+NAME:ESTANTES
+DESC:Están hechos de un material que simula madera y en donde reposan multitud de rifles de diferentes tamaños.
+//////////
+##########
+LOCA:012
+NAME:ESTANTE
+DESC:Están hechos de un material que simula madera y en donde reposan multitud de rifles de diferentes tamaños.
+//////////
+##########
+LOCA:012
+NAME:ESTANTERIA
+DESC:Están hechos de un material que simula madera y en donde reposan multitud de rifles de diferentes tamaños.
+//////////
+##########
+LOCA:012
+NAME:ESTANTERIAS
+DESC:Están hechos de un material que simula madera y en donde reposan multitud de rifles de diferentes tamaños.
+//////////
+##########
+LOCA:012
+NAME:RIFLES
+DESC:Los hay de diferentes calibres, tamaños y colores, pero no puedes alcanzarlos, los cristales blindados te lo impide.
+//////////
+##########
+LOCA:012
+NAME:RIFLE
+DESC:Los hay de diferentes calibres, tamaños y colores, pero no puedes alcanzarlos, los cristales blindados te lo impide.
+//////////
+##########
+LOCA:012
+NAME:CRISTALERA
+DESC:Tienen un blindaje de más de 15 cm. de espesor. No tienes nada que hacer contra ellas.
+//////////
+##########
+LOCA:012
+NAME:CRISTALERAS
+DESC:Tienen un blindaje de más de 15 cm. de espesor. No tienes nada que hacer contra ellas.
+//////////
+##########
+LOCA:012
+NAME:CRISTALES
+DESC:Tienen un blindaje de más de 15 cm. de espesor. No tienes nada que hacer contra ellas.
+//////////
+##########
+LOCA:012
+NAME:CRISTAL
+DESC:Tienen un blindaje de más de 15 cm. de espesor. No tienes nada que hacer contra ellas.
+//////////
+##########
+LOCA:013
+NAME:SALA
+DESC:La sala de mandos de la Estrella Pringosa dispone de numerosos ordenadores de control dispuestos a ambos lados del pasillo central. Al fondo hay un amplio ventanal abierto al espacio.
+//////////
+##########
+LOCA:013
+NAME:VENTANA
+DESC:Protegido por una cristal de tamaño considerable, permite ver el espacio y el exterior de la Estrella Pringosa.
+//////////
+##########
+LOCA:013
+NAME:CRISTAL
+DESC:Pues eso, cristal blindado del bueno para evitar fugas y proteger el centro de mando.
+//////////
+##########
+LOCA:013
+NAME:ORDENADORES
+DESC:Tienen todas sus lucecitas en funcionamiento. Algunos de ellos llevan conectores auxiliares que permiten su manipulación externa.
+//////////
+##########
+LOCA:013
+NAME:ORDENADOR
+DESC:Tienen todas sus lucecitas en funcionamiento. Algunos de ellos llevan conectores auxiliares que permiten su manipulación externa.
+//////////
+##########
+LOCA:013
+NAME:CONECTOR
+DESC:Son del tipo UXT-UUA, vamos el tipo estándar que se utiliza en ésta Galaxia.
+//////////
+##########
+LOCA:013
+NAME:UXT-UUA
+DESC:Conector estándar que se utiliza en ésta Galaxia, casi todos los ordenadores disponen de uno.
+//////////
+##########
+LOCA:013
+NAME:LUCES
+DESC:De colorines. Todo parece indicar que la Estrella Pringosa funciona a pleno rendimiento.
+//////////
+##########
+LOCA:013
+NAME:LUZ
+DESC:De colorines. Todo parece indicar que la Estrella Pringosa funciona a pleno rendimiento.
+//////////
+##########
+LOCA:014
+NAME:PASILLO
+DESC:Este pasillo es el eje principal del nivel superior de la Estrella Pringosa y sirve para comunicar diferentes secciones de la nave.
+//////////
+##########
+LOCA:014
+NAME:PARED
+DESC:Todas las paredes de las naves espaciales son iguales: estructura de metal que se recubre con planchas de material protector.
+//////////
+##########
+LOCA:014
+NAME:PAREDES
+DESC:Todas las paredes de las naves espaciales son iguales: estructura de metal que se recubre con planchas de material protector.
+//////////
+##########
+LOCA:014
+NAME:LUCES
+DESC:Algunas se han fundido o parpadean, iluminando el pasillo de manera irregular.
+//////////
+##########
+LOCA:014
+NAME:TECHO
+DESC:Al igual que las paredes, el techo está formado por una estructura metálica muy sólida donde se encuentra la mayor parte del cableado. No tiene nada de interés.
+//////////
+##########
+LOCA:014
+NAME:CABLEADO
+DESC:Aunque no puedes verlo, sabes que está colocado detrás de las paredes y sobre el techo, protegido por el material que las recubre.
+//////////
+##########
+LOCA:014
+NAME:LUZ
+DESC:Algunas se han fundido o parpadean, iluminando el pasillo pero de manera irregular.
+//////////
+##########
+LOCA:015
+NAME:PASILLO
+DESC:Este pasillo es el eje principal del nivel superior de la Estrella Pringosa y sirve para comunicar diferentes secciones de la nave.
+//////////
+##########
+LOCA:015
+NAME:PARED
+DESC:Todas las paredes de las naves espaciales son iguales: estructura de metal que se recubre con planchas de material protector.
+//////////
+##########
+LOCA:015
+NAME:PAREDES
+DESC:Todas las paredes de las naves espaciales son iguales: estructura de metal que se recubre con planchas de material protector.
+//////////
+##########
+LOCA:015
+NAME:LUCES
+DESC:Algunas se han fundido o parpadean, iluminando el pasillo de manera irregular.
+//////////
+##########
+LOCA:015
+NAME:TECHO
+DESC:Al igual que las paredes, el techo está formado por una estructura metálica muy sólida donde se encuentra la mayor parte del cableado. No tiene nada de interés.
+//////////
+##########
+LOCA:015
+NAME:CABLEADO
+DESC:Aunque no puedes verlo, sabes que está colocado detrás de las paredes y sobre el techo, protegido por el material que las recubre.
+//////////
+##########
+LOCA:015
+NAME:LUZ
+DESC:Algunas se han fundido o parpadean, iluminando el pasillo pero de manera irregular.
+//////////
+##########
+LOCA:016
+NAME:LETRINAS
+DESC:Una vez finalizado su uso, se autolimpian automáticamente.
+//////////
+##########
+LOCA:016
+NAME:LETRINA
+DESC:Una vez finalizado su uso, se autolimpian automáticamente.
+//////////
+##########
+LOCA:016
+NAME:MEODROMO
+DESC:Como buen meodromo que se precie, dispone de varias letrinas en donde aliviar las necesidades fisiológicas básicas.
+//////////
+##########
+LOCA:016
+NAME:AMONIACO
+DESC:Verlo, verlo, no es que se vea mucho, eso sí, apesta que da gusto.
+//////////
+##########
+LOCA:016
+NAME:PAREDES
+DESC:No tienen nada de especial, salvo por la que tiene las letrinas alineadas.
+//////////
+##########
+LOCA:016
+NAME:PARED
+DESC:No tienen nada de especial, salvo por la que tiene las letrinas alineadas.
+//////////
+##########
+LOCA:017
+NAME:PUERTA
+DESC:Está construída de lo que parece ser un metal muy resistente. Está firmemente cerrada.
+//////////
+##########
+LOCA:017
+NAME:METAL
+DESC:No logras identificarlo, aunque por su color tal vez sea Titaniorum de alta resistencia.
+//////////
+##########
+LOCA:017
+NAME:BOTON
+DESC:Tiene forma cuadrangular, y lleva escrito las palabras: 00-AREFSOMTA OERC-22.
+//////////
+##########
+LOCA:018
+NAME:CUADRILATERO
+DESC:Está construído sobre una estructura de metal que favorece la visión de lo que sucede dentro. Los rayos láser que lo rodean evitan, que una vez iniciado el combate, nadie se pueda marchar.
+//////////
+##########
+LOCA:018
+NAME:LASER
+DESC:La triple hilera de rayos láser de color rojo, sirven para delimitar el cuadrilátero y evitar que alguien decida marcharse antes de finalizar la pelea.
+//////////
+##########
+LOCA:018
+NAME:HILERA
+DESC:La triple hilera de rayos láser de color rojo, sirven para delimitar el cuadrilátero y evitar que alguien decida marcharse antes de finalizar la pelea.
+//////////
+##########
+LOCA:018
+NAME:PERIMETRO
+DESC:La triple hilera de rayos láser de color rojo, sirven para delimitar el cuadrilátero y evitar que alguien decida marcharse antes de finalizar la pelea.
+//////////
+##########
+LOCA:019
+NAME:TRANSPORTADOR
+DESC:También conocido como ascensor, permite subir y bajar entre plantas. Éste tiene pintada, en una de las puertas, una flecha que indica que sube.
+//////////
+##########
+LOCA:019
+NAME:FLECHA
+DESC:Marca hacia arriba, luego el ascensor solo sube.
+//////////
+##########
+LOCA:020
+NAME:GORRO
+DESC:De un inmaculado color blanco, adorna la redonda cabeza del robot cocinero. Por lo demás, no presenta nada de interés.
+//////////
+##########
+LOCA:020
+NAME:MOSTRADOR
+DESC:Es metálico y está protegido por una pantalla de cristal plástico. Forma parte de él tanto el robot cocinero como la plancha donde éste cocina.
+//////////
+##########
+LOCA:020
+NAME:PLANCHA
+DESC:Típica superficie metálica muy caliente, donde el robot cocinero hace las hamburguesas.
+//////////
+##########
+LOCA:020
+NAME:CRISTAL
+DESC:Es muy resistente y sirve para evitar que tanto la plancha como las hamburguesas queden expuestas a todo el mundo. Razones de higiene!
+//////////
+##########
+LOCA:020
+NAME:CARNE
+DESC:Es uno de los ingredientes básico de las hamburguesas. Desafortunadamente, el robot cocinero, lo mantiene a buen recaudo.
+//////////
+##########
+LOCA:020
+NAME:TOMATE
+DESC:Es uno de los ingredientes básico de las hamburguesas. Desafortunadamente, el robot cocinero, lo mantiene a buen recaudo.
+//////////
+##########
+LOCA:020
+NAME:MOSTAZA
+DESC:Es uno de los ingredientes básico de las hamburguesas. Desafortunadamente, el robot cocinero, lo mantiene a buen recaudo.
+//////////
+##########
+LOCA:020
+NAME:CATCHUP
+DESC:Es uno de los ingredientes básico de las hamburguesas. Desafortunadamente, el robot cocinero, lo mantiene a buen recaudo.
+//////////
+##########
+LOCA:021
+NAME:PUNTO
+DESC:Es un punto muy bonito, redondito y simpaticon. Pero no parece que te vaya a servir de mucho. 
+//////////
+##########
+LOCA:022
+NAME:MESA
+DESC:Sirve para controlar la apertura y el cierre de las celdas. Tiene una ranura para introducir una tarjeta de control.
+//////////
+##########
+LOCA:022
+NAME:CELDA
+DESC:Tanto el acceso a la celda Este como a la Oeste, está controlado por el panel de control circular.
+//////////
+##########
+LOCA:022
+NAME:CELDAS
+DESC:Tanto el acceso a la celda Este como a la Oeste, está controlado por el panel de control circular.
+//////////
+##########
+LOCA:023
+NAME:TRANSPORTADOR
+DESC:También conocido como ascensor, permite subir y bajar entre plantas. Éste tiene pintada, en una de las puertas, una flecha que indica que baja.
+//////////
+##########
+LOCA:023
+NAME:FLECHA
+DESC:Marca hacia abajo, luego el ascensor solo baja.
+//////////
+##########
+LOCA:024
+NAME:CAMASTRO
+DESC:Construído a partir de material plástico de alta resistencia, está incrustrado en la pared sin necesidad de soportes adicionales. Dispone de diferentes ranuras por las que pasan las cadenas ancladas en el suelo.
+//////////
+##########
+LOCA:024
+NAME:CADENA
+DESC:Parece que alguien se tomo mucha molestia para que las cadenas no pudieran moverse de su sitio, están soldadas con Estañorium, imposible de romper.
+//////////
+##########
+LOCA:024
+NAME:CADENAS
+DESC:Parece que alguien se tomo mucha molestia para que las cadenas no pudieran moverse de su sitio, están soldadas con Estañorium, imposible de romper.
+//////////
+##########
+LOCA:024
+NAME:PARED
+DESC:Salvo por el camastro y las cadenas, las paredes no presentan nada de utilidad.
+//////////
+##########
+LOCA:024
+NAME:RANURA
+DESC:Son orificios hechos sobre la superficie del camastro para que las cadenas puedan atravesarlo.
+//////////
+##########
+LOCA:024
+NAME:RANURAS
+DESC:Son orificios hechos sobre la superficie del camastro para que las cadenas puedan atravesarlo.
+//////////
+##########
+LOCA:024
+NAME:CADENA
+DESC:Están formadas por varios eslabones, es muy dura y resistente. 
+//////////
+##########
+LOCA:024
+NAME:CADENAS
+DESC:Están formadas por varios eslabones, es muy dura y resistente. 
+//////////
+##########
+LOCA:025
+NAME:CATRE
+DESC:Fabricado de molibdeno, puedes ver que alguien ha grabado un número en una de las esquinas.
+//////////
+##########
+LOCA:025
+NAME:NUMERO
+DESC:Aunque está un poco desgastado aún puede leerse "9125". ¿Para qué valdrá?
+//////////
+##########
+LOCA:025
+NAME:CELDA
+DESC:Como todas las celdas, tiene poca luz y ventilación, y solo dispone de un catre a modo de cama, como único mobiliario.
+//////////
+##########
+LOCA:025
+NAME:CUARTUCHO
+DESC:Como todas las celdas, tiene poca luz y ventilación, y solo dispone de un catre a modo de cama, como único mobiliario.
+//////////
+##########
+LOCA:025
+NAME:NEON
+DESC:Es un fluorescente de un tenue color rosa.
+//////////

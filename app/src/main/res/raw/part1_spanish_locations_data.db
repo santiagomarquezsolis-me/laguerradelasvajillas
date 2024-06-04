@@ -1,0 +1,430 @@
+&&&&&&&&&&
+##########
+LOCA:001
+TIPO:NORMAL
+TITU:Frente a la Casa
+IMAG:part1_location_001
+AYUD:Los comandos básicos son "norte", "sur", "este"... Puedes obtener información adicional con el comando "examinar" y el objeto sobre el que quieres mas información.
+DESC:Estás en el planeta desértico Tutuflex. Frente a ti está la casa de tu tio Oguen, hundida en las ardientes arenas.
+SALI:NORTE N 002
+SALI:SUR S 005
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:002
+TIPO:NORMAL
+TITU:Interior de la Casa
+IMAG:part1_location_002
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en el interior de la casa de tio Oguen. No hay nadie. Se oye el monótono zumbido de un mecanismo de licuoextracción en la cocina. 
+SALI:SUR S 001
+SALI:ESTE E 003
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:003
+TIPO:NORMAL
+TITU:Plantación
+IMAG:part1_location_003
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en la plantación de nabos sintéticos de tio Oguen. Centenares de gigantescos nabos, en cultivo hidropónico, te rodean.
+SALI:ESTE E 004
+SALI:OESTE O 002
+FLUI:TRUE
+LIGH:FALSE
+//////////
+##########
+LOCA:004
+TIPO:NORMAL
+TITU:Formación Rocosa
+IMAG:part1_location_004
+AYUD:Cuidado con los merodeadores.
+DESC:Gigantescas estribaciones pétreas parecen surgir bajo las arenas, conformando unas formaciones rocosas de gran altura, en las que te encuentras ahora.
+SALI:OESTE O 003
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:005
+TIPO:NORMAL
+TITU:Desierto
+IMAG:part1_location_005
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Arena, arena,... y más arena. Estás en el desierto, chico! y el calor cada vez es más insoportable.
+SALI:NORTE N 001
+SALI:SUR S 009
+SALI:ESTE E 006
+SALI:OESTE O 007
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:006
+TIPO:NORMAL
+TITU:Campo de Cáctus
+IMAG:part1_location_006
+AYUD:Sigue los sabios consejos de Obi Juan.
+DESC:Muévete despacio, pues estás en mitad de un campo de cáctus salvajes del Karibe, dotados de valiosas, y dolorosas, púas de titanio. Frente a ti se encuentra el cáctus más enorme que jamás hayas imaginado.
+SALI:ESTE E 008
+SALI:OESTE O 005
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:007
+TIPO:NORMAL
+TITU:Desierto
+IMAG:part1_location_007
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Más desierto,... y más arena. Las dunas se pierden en el lejano horizonte, en el cielo el sol comienza poco a poco a ocultarse.
+SALI:ESTE E 005
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:008
+TIPO:NORMAL
+TITU:Ladera Rocosa
+IMAG:part1_location_008
+AYUD:Cuidado con los merodeadores.
+DESC:Te encuentras en unas laderas rocosas de color cobrizo y afiladas secciones, y que sirven de abrigo y refugio a peligrosos bandidos.
+SALI:OESTE O 006
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:009
+TIPO:NORMAL
+TITU:Cabina de Comunicación
+IMAG:part1_location_009
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:No sé si te lo creerás, pero te encuentras junto a una cabina de comunicación interpersonal, automatizada, retroinyectada, fibrolumínica. ¡Quién lo iba a pensar! aquí en medio del desierto.
+SALI:NORTE N 005
+SALI:SUR S 010
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:010
+TIPO:NORMAL
+TITU:Puerto Espacial
+IMAG:part1_location_010
+AYUD:Tienes que encontrar una nave y un piloto y salir de este sitio cuanto antes.
+DESC:Puerto espacial de Moscasalien, el mayor estercolero de este planeta. Aquí podrás encontrar a los seres más pútridos de toda la galaxia. ¡A ver con quien te relacionas!
+SALI:NORTE N 009
+SALI:SUR S 011
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:011
+TIPO:NORMAL
+TITU:Calle
+IMAG:part1_location_011
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:La calle está abarrotada de seres y vehículos, que levantan nubes de polvo a su alrededor.
+SALI:NORTE N 010
+SALI:SUR S 015
+SALI:ESTE E 012
+SALI:OESTE O 014
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:012
+TIPO:NORMAL
+TITU:Callejón
+IMAG:part1_location_012b
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en una calle cerrada. Puedes ver varias puertas que se abren a diferentes establecimientos, ninguno de ellos tiene muy buena pinta.
+SALI:NORTE N 017
+SALI:SUR S 018
+SALI:OESTE O 011
+SALI:ESTE E 013
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:013
+TIPO:NORMAL
+TITU:Bar
+IMAG:part1_location_013
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:¡Vaya, tio! Te has metido en un bar de muy mal aspecto. Una buena colección de tipos raros están apalancados en la barra, tragando galactochivas como esponjas secas.
+SALI:OESTE O 012
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:014
+TIPO:NORMAL
+TITU:Tasca Delaesquina
+IMAG:part1_location_014
+AYUD:Puedes "golpear" o "disparar" a la chusma pero.... esto traerá consecuencias.
+DESC:Estás en la tasca Delaesquina, conocido lugar de reunión de piratas, pilotos, contrabandistas y demás gente de buena voluntad. 
+SALI:ESTE E 011
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:015
+TIPO:NORMAL
+TITU:Tienda
+IMAG:part1_location_015
+AYUD:¡Ten cuidado! no me gustan los ruidos de la trastienda.
+DESC:Estás dentro de una tienda de aspecto muy funcional. Trás unos cubos de glycanium se vislumbra una placa fotodetectora. En la trastienda se oyen ruidos anormales.
+SALI:NORTE N 011
+SALI:SUR S 016
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:016
+TIPO:NORMAL
+TITU:Cuartel General
+IMAG:part1_location_016
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Acabas de entrar en el cuartel general del regimiento imperialista local. Hay varias decenas de soldados, provistos de sus armaduras de combate.
+SALI:NORTE N 015
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:017
+TIPO:NORMAL
+TITU:Tienda
+IMAG:part1_location_017
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en el interior de una diminuta y lóbrega tienda. A ambos lados se levantan estantes repletos de raros objetos.
+SALI:SUR S 012
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:018
+TIPO:NORMAL
+TITU:Salón
+IMAG:part1_location_018
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Estás en un salón elegantemente decorado e iluminado con una ténue luz rojiza.
+SALI:NORTE N 012
+SALI:ESTE E 019
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:019
+TIPO:NORMAL
+TITU:Mostradores
+IMAG:part1_location_019
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Te encuentras en una zona llena de mostradores, repletos de catálogos de viajes de vivos colores. La entrada al hangar, en donde se encuentran las naves espaciales, está hacia el Este.
+SALI:ESTE E 020
+SALI:OESTE O 018
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:020
+TIPO:NORMAL
+TITU:Hangar
+IMAG:part1_location_020
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Has entrado en un hangar. La luz se filtra por los agujeros del techo, iluminando el destartalado Halcón Millonario.
+SALI:NORTE N 021
+SALI:OESTE O 019
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:021
+TIPO:NORMAL
+TITU:Pasillo de Acceso
+IMAG:part1_location_021
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Pasillo de acceso del Halcón Millonario. A ambos lados se encuentran sendos paneles de control, llenos de brillantes lucecitas. También hay un minicontenedor en la pared.
+SALI:NORTE N 022
+SALI:SUR S 020
+SALI:ESTE E 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:022
+TIPO:NORMAL
+TITU:Cabina de Navegación
+IMAG:part1_location_022
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay dos sillones de mando, frente a los cuales está situado el panel de control, lleno de palanquitas y luces. En el techo, plagado de controles, destaca un buscador Cimanid-2x.
+SALI:SUR S 021
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:023
+TIPO:NORMAL
+TITU:Sala Principal
+IMAG:part1_location_023
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Sala principal del Halcón. Sobre una mesa redonda se disponen un montón de artilugios. Se ven dos computadoras de hiperespacio.
+SALI:NORTE N 026
+SALI:SUR S 025
+SALI:ESTE E 024
+SALI:OESTE O 021
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:024
+TIPO:NORMAL
+TITU:Compartimento de Carga
+IMAG:part1_location_024
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Una decena de pesados containers están apilados, junto a varias flotacajas metalizadas.
+SALI:OESTE O 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:025
+TIPO:NORMAL
+TITU:Sala de Motores
+IMAG:part1_location_025
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay un verdadero laberínto de tubos, cables y fibras-luz, interconectando multitud de aparatos, de entre los cuales destaca los dos impresionantes motores Krugger, capaces de lograr velocidad luz-20.
+SALI:NORTE N 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:026
+TIPO:NORMAL
+TITU:Sala de Turboláseres
+IMAG:part1_location_026
+AYUD:Lo mejor es que te muevas e investigues.
+DESC:Hay dos puestos de control dotados de monitores de búsqueda automática. Hay un botiquín de primeros auxilios, ¡por si acaso!
+SALI:SUR S 023
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:099
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 099
+SALI:SUR S 099
+SALI:ESTE E 099
+SALI:OESTE O 099
+MENS:Los merodeadores de las arenas caen sobre ti, ya no puedes escapar.
+MENS:Te pegan una soberana paliza y te matan. Se llevan a C2P2 y a R2D2 con ellos. C2P2 chilla mientras lo arrastran: "¡Me he hecho caquiiiiiiitaaaaaa!".
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:100
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a Obi con la pistola y aprietas el gatillo...
+MENS:... el viejo maestro saca su cachiporraluz y golpea el haz laser antes de que pueda tocarle y lo devuelve contra ti.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:101
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a Juansolo con la pistola... 
+MENS:... y antes de que puedas apretar el gatillo, Chequevaca te coge con sus peludos brazos y te rompe el cuello.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:102
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Apuntas a los androides con la pistola... 
+MENS:... R3D2 se da cuenta de tus intenciones, y utiliza su conector estándar de defensa a base de calambrazos marca ACME para electrocutarte.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:103
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:dead
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Disparas al jamoneano con tu pistola laser, pero éste pulsa un botón en el mostrador antes de morir.
+MENS:Del techo surge un cañon fundidor que te dejá más seco que la mojama.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:104
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:troopers
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:Los soldados acaban por acorrarlarte y te apuntan con sus armas.
+MENS:Una lluvia de rayos láser acaba con tu vida, no quedando de ti más que polvo.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////
+##########
+LOCA:105
+TIPO:MUERTE
+TITU:¡Estas muerto!
+IMAG:troopers
+AYUD:Estas muerto, ¿que ayuda quieres?
+DESC:Lo siento, pero has muerto, intenta hacerlo un poco mejor la próxima vez.
+SALI:NORTE N 100
+SALI:SUR S 100
+SALI:ESTE E 100
+SALI:OESTE O 100
+MENS:En un ataque de incosciencia frenética disparas a las tropas imperiales.
+MENS:Que obviamente no se están quietas y responden al ataque, friyendo tu cuerpo moreno con una lluvia de rayos láser.
+MENS:Lo siento! Has pasado al otro lado de la realidad. Estás entre las brumas de la fuerza. Muerto!
+FLUI:FALSE
+LIGH:FALSE
+//////////

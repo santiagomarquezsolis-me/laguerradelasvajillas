@@ -1,0 +1,98 @@
+&&&&&&&&&&
+##########
+IDEN:001
+TIPO:FOLLOW
+NAME:ANDROIDE_NOS_SIGUE
+ACTI:FALSE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:Los androides te siguen.
+//////////
+##########
+IDEN:002
+TIPO:GIVE
+NAME:DAR_LATA_A_C2P2
+ACTI:TRUE
+LOCA:PLAYER
+RAND:FALSE
+NEED:LATA@C2P2 coge la lata de aceite, y eliminando la arena que bloquea los mecanismos de R3D2, aplica una generosa cantidad sobre él. De repente, R3D2 emite un pitido y de su ombligo, surge un rayo que conforma la figura holográfica de la princesa Paca Holgazana, que dice: "¡Socorro! ¡Obi Juan, ayúdame por favor!. C2P2 dice: "Amo Luque, vamos contigo. Con la ayuda de Obi Juan podemos salvar a la princesa."
+//////////
+##########
+IDEN:003
+TIPO:GIVE
+NAME:DAR_LATA_A_R3D2
+ACTI:TRUE
+LOCA:PLAYER
+RAND:FALSE
+NEED:LATA@R3D2 alarga un brazo mecánico que tiene oculto en su cuerpo, coge la lata dándosela a C2P2. Éste coge la lata de aceite, y eliminando la arena que bloquea los mecanismos de R3D2, aplica una generosa cantidad sobre él. De repente, R3D2 emite un pitido y de su ombligo, surge un rayo que conforma la figura holográfica de la princesa Paca Holgazana, que dice: "¡Socorro! ¡Obi Juan, ayúdame por favor!. C2P2 dice: "Amo Luque, vamos contigo. Con la ayuda de Obi Juan podemos salvar a la princesa."
+//////////
+##########
+IDEN:004
+TIPO:FOLLOW
+NAME:OBI_NOS_SIGUE
+ACTI:FALSE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:Obi dice: "¡Lo has clavado machote! Toma Luque, esta es la cachiporraluz de tu padre, y recuerda la máxima de todo caballero Heavy: ¡Qué la fuerza de Johnson te ayude a limpiar la Galaxia! A partir de ahora te acompañaré siempre."
+RETU:CACHIPORRA@La cachiporra está depositada en el suelo.
+//////////
+##########
+IDEN:005
+TIPO:GIVE
+NAME:DAR_AUTOPELADOR_A_BICHO
+ACTI:TRUE
+LOCA:255
+RAND:FALSE
+NEED:AUTOPELADOR@El bicho azul coge el autopelador y dice "¡Ohhhhh que bonitoooooooo!", y añade "¡Gracias majo, te dejo esto." Y se aleja de ti.
+RETU:CUBO@Te deja un cubo en el suelo.
+//////////
+##########
+IDEN:006
+TIPO:GIVE
+NAME:DAR_PUA_A_JAMONEANO
+ACTI:TRUE
+LOCA:017
+RAND:FALSE
+NEED:PUA@El Jamoneano coge la púa que le ofreces. La mira a la luz, se la lleva a la boca y la muerde. Satisfecho te mira y te dice: "Es una buena púa de titanio. Hacemos negocio y te la compro.". Se dirige al mostrador, guarda la púa en una caja y te dá una tarjeta cargada con bitcoins añadiendo: "¡Toma!, creo que soy suficientemente generoso, has hecho una buena venta."
+RETU:BITCOIN@Te deja la tarjeta con los bitcoins encima del mostrador.
+//////////
+##########
+IDEN:007
+TIPO:GIVE
+NAME:DAR_BITCOINS_A_JUANSOLO
+ACTI:TRUE
+LOCA:PLAYER
+RAND:FALSE
+NEED:BITCOIN@JuanSolo examina la tarjeta de bitcoin, y la introduce en un pequeño dispositivo para comprobar su valor. Satisfecho por lo que vé, te dice: "¡Muy bien amigo!, tienes piloto y nave espacial, acepto el trato. ¿A donde tenemos que ir?". Obi Juan dice: "No muy lejos de aquí, a Barandundundua." JuanSolo dice: "Es un sitio peligroso.", pero se pone en pie y te sigue.
+//////////
+##########
+IDEN:008
+TIPO:FOLLOW
+NAME:JUANSOLO_NOS_SIGUE
+ACTI:FALSE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:JuanSolo te sigue a corta distancia.
+//////////
+##########
+IDEN:009
+TIPO:GIVE
+NAME:DAR_CREDITOS_A_BELLEZAS
+ACTI:TRUE
+LOCA:018
+RAND:FALSE
+NEED:BITCOIN@Una de las bellezas examina la tarjeta de bitcoin, y la introduce en un pequeño dispositivo para comprobar su valor y dice: "Cielo, con esto no tienes ni para empezar la fiesta. Lo siento."
+RETU:BITCOIN@Te dejan la tarjeta con los bitcoin encima de una de las mesitas.
+//////////
+##########
+IDEN:010
+TIPO:GIVE
+NAME:DAR_CUBO_A_CRIS
+ACTI:TRUE
+LOCA:018
+RAND:FALSE
+NEED:CUBO@La besugina coge el cubo y te dice: "Ohhhhhhhhh que bonitoooooooooo. Muchas gracias! Pero aún sigues necesitando un piloto para entrar en el hangar."
+//////////

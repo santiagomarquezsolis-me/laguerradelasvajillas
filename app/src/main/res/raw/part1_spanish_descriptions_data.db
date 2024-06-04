@@ -1,0 +1,1216 @@
+&&&&&&&&&&
+##########
+LOCA:001
+NAME:CASA
+DESC:Es una sólida construcción en forma de iglú. Está especialmente diseñada para soportar las grandes temperaturas del desierto, y proporcionar un ambiente fresco en su interior. Está rodeada de antenas de comunicaciones.
+//////////
+##########
+LOCA:001
+NAME:CASITA
+DESC:Es una sólida construcción en forma de iglú. Está especialmente diseñada para soportar las grandes temperaturas del desierto, y proporcionar un ambiente fresco en su interior.
+//////////
+##########
+LOCA:001
+NAME:PLANETA
+DESC:¡Hombre! examinar todo el planeta desde aquí no es posible, tal vez si contaras con un escáner planetario marca Acné, sería posible. En cualquier caso, Tutuflex es un planeta desértico en su mayor parte, con pocas ciudades habitadas, la más importante es Moscasalien, localizada al Sur de la casa de tio Oguen.
+//////////
+##########
+LOCA:001
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:001
+NAME:DESIERTO
+DESC:Pues el desierto está desierto, salvo por los cientos de millones de granos de arena que lo pueblan.
+//////////
+##########
+LOCA:001
+NAME:SIRECA
+DESC:Sistema de Reconocimiento de Caras, es muy útil, porque permite el acceso a la casa sin necesidad de tener que llevar llaves. Si tu cara es reconocida puedes pasar al interior.
+//////////
+##########
+LOCA:001
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:001
+NAME:TIO
+DESC:El tio Oguen no está por aquí. Salió hace varios días hacia el planeta Tampax, en busca de material de cultivo para su huerto de nabos gigantes.
+//////////
+##########
+LOCA:001
+NAME:OGUEN
+DESC:El tio Oguen no está por aquí. Salió hace varios días hacia el planeta Tampax, en busca de material de reparaciones y cultivo para su huerto de nabos gigantes.
+//////////
+##########
+LOCA:001
+NAME:TIO OGUEN
+DESC:El tio Oguen no está por aquí. Salió hace varios días hacia el planeta Tampax, en busca de material de reparaciones y cultivo para su huerto de nabos gigantes.
+//////////
+##########
+LOCA:001
+NAME:PUERTA
+DESC:La puerta de la casa no necesita de llave. Se abre al acercarte a ella, gracias al SIRECA incoportado en la cámara. NOTA: SIRECA o Sistema de Reconocimiento de Caras. ¡Ja, ja! no te asustes, esto no es La Aventura Espacial, no hay más siglas.
+//////////
+##########
+LOCA:001
+NAME:ANTENAS
+DESC:Las hay de varios tipos, pero sin duda, las más importantes son las de comunicaciones y la antena solar. Las antenas de comunicación te mantienen en contacto con el resto del planeta y son vitales, por ellas viaja la señal de la televisión. Las antenas solares transforman la lúz del sol en energía eléctrica.
+//////////
+##########
+LOCA:001
+NAME:ANTENA
+DESC:Las hay de varios tipos, pero sin duda, las más importantes son las de comunicaciones y la antena solar. Las antenas de comunicación te mantienen en contacto con el resto del planeta y son vitales, por ellas viaja la señal de la televisión. Las antenas solares transforman la lúz del sol en energía eléctrica.
+//////////
+##########
+LOCA:002
+NAME:INTERIOR
+DESC:El interior de la casa de tio Oguen, es muy austero, se nota que el buen hombre es de la Hermandad del Puño Cerrado, y no suelta un crédito, ni aunque le den con un martillo pilón en el codo. De todos modos, está muy bien equipada y dispone de todo lo necesario para poder sobrevivir, sin demasiados problemas, en el desierto.
+//////////
+##########
+LOCA:002
+NAME:ZUMBIDO
+DESC:Pues eso, un zumbido, hace algo así como "zoom, zoom, zoom...", e indica que el sistema de licuoextracción está funcionando correctamente.
+//////////
+##########
+LOCA:002
+NAME:COCINA
+DESC:Como en casi todas las casas del desierto, la cocina es el lugar más importante de toda la casa y son cómo las casas japonesas de la Tierra, multifuncionales. Esto significa que se usan tanto para cocinar, como para dormir en ellas, cambiando la disposición de las paredes a voluntad, mediante un ingenioso sistema de raíles y puertas plegables. En una de las paredes está colgado el SIRECA.
+//////////
+##########
+LOCA:002
+NAME:SIRECA
+DESC:Sistema de Reconocimiento de Caras, es muy útil, porque permite el acceso a la casa sin necesidad de tener que llevar llaves. Si tu cara es reconocida puedes pasar al interior.
+//////////
+##########
+LOCA:002
+NAME:PUERTAS
+DESC:Las puertas plegables están rotas, esperando a que el tio Oguen vuelva con repuestos y el material de cultivo.
+//////////
+##########
+LOCA:002
+NAME:PUERTA
+DESC:La puerta de la casa no necesita de llave. Se abre al acercarte a ella, gracias al SIRECA incoportado en la cámara. NOTA: SIRECA o Sistema de Reconocimiento de Caras. ¡Ja, ja! no te asustes, esto no es La Aventura Espacial, no hay más siglas.
+//////////
+##########
+LOCA:002
+NAME:MECANISMO
+DESC:El mecanismo de licuoextracción es una especie de bomba, que succiona todo lo que cae en el oscuro agujero, que hay en el fondo, del fregadero de la cocina. Todo lo que succiona, es triturado y almacenado en unos contenedores que hay bajo tierra.
+//////////
+##########
+LOCA:002
+NAME:LICUOEXTRACCION
+DESC:El mecanismo de licuoextracción es una especie de bomba, que succiona todo lo que cae en el oscuro agujero, que hay en el fondo, del fregadero de la cocina. Todo lo que succiona, es triturado y almacenado en unos contenedores que hay bajo tierra.
+//////////
+##########
+LOCA:002
+NAME:AGUJERO
+DESC:No tiene nada de especial, es un agujero feo, sucio y oscuro al que está conectado el sistema de licuoextracción.
+//////////
+##########
+LOCA:002
+NAME:FREGADERO
+DESC:Es de un metal indeterminado. Tiene un grifo que puedes usar para coger agua, aunque ahora está roto y a la espera de las piezas que tiene que traer tio Oguen.
+//////////
+##########
+LOCA:002
+NAME:GRIFO
+DESC:Forma parte del fregadero. Está roto, a la espera de las piezas que tiene que traer el tio Oguen.
+//////////
+##########
+LOCA:003
+NAME:PLANTACION
+DESC:Es una gran extensión de terreno en donde tio Oguen, cultiva sus nabos gigantes, principal sustento económico de la familia.
+//////////
+##########
+LOCA:003
+NAME:NABOS
+DESC:Como buen nabo, es redondo y de un suave color blanco, los grandes tallos verdes que salen de la cabeza del nabo se usan como ingredientes en el plato típico de Tutuflex.
+//////////
+##########
+LOCA:003
+NAME:TALLO
+DESC:Salen de la cabeza del nabo, son largos y de color verdoso, pero no creo que te sirva de nada.
+//////////
+##########
+LOCA:003
+NAME:TALLOS
+DESC:Salen de la cabeza del nabo, son largos y de color verdoso, pero no creo que te sirva de nada.
+//////////
+##########
+LOCA:003
+NAME:NABO
+DESC:Como buen nabo, es redondo y de un suave color blanco, los grandes tallos verdes que salen de la cabeza del nabo se usan como ingredientes en el plato típico de Tutuflex. 
+//////////
+##########
+LOCA:003
+NAME:CULTIVO
+DESC:El cultivo hidropónico, es una manera muy útil de mantener con vida verduras y hortalizas en un ambiente desértico, al bañar con agua y sales de diferentes tipos a los vegetales.
+//////////
+##########
+LOCA:003
+NAME:HIDROPONICO
+DESC:El cultivo hidropónico, es una manera muy útil de mantener con vida verduras y hortalizas en un ambiente desértico, al bañar con agua y sales de diferentes tipos a los vegetales.
+//////////
+##########
+LOCA:003
+NAME:VERDURA
+DESC:Aquí lo más parecido a una verdura son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:003
+NAME:VEGETALES
+DESC:Aquí lo más parecido a un vegetal son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:003
+NAME:VEGETAL
+DESC:Aquí lo más parecido a un vegetal son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:003
+NAME:VERDURAS
+DESC:Aquí lo más parecido a una verdura son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:003
+NAME:HORTALIZA
+DESC:Aquí lo más parecido a una hortaliza son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:003
+NAME:HORTALIZAS
+DESC:Aquí lo más parecido a una hortaliza son los nabos gigantes en cultivo hidropónico.
+//////////
+##########
+LOCA:004
+NAME:ESTRIBACION
+DESC:De dura roca, son muy altas y están muy juntas, dándose apoyo las unas contra las otras, en su ascensión hacia el cielo.
+//////////
+##########
+LOCA:004
+NAME:ESTRIBACIONES
+DESC:De dura roca, son muy altas y están muy juntas, dándose apoyo las unas contra las otras, en su ascensión hacia el cielo.
+//////////
+##########
+LOCA:004
+NAME:DESIERTO
+DESC:Pues el desierto está desierto, salvo por los cientos de millones de granos de arena que lo pueblan.
+//////////
+##########
+LOCA:004
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:004
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:004
+NAME:FORMACION
+DESC:De dura roca, son muy altas y están muy juntas, dándose apoyo las unas contra las otras, en su ascensión hacia el cielo.
+//////////
+##########
+LOCA:004
+NAME:FORMACIONES
+DESC:De dura roca, son muy altas y están muy juntas, dándose apoyo las unas contra las otras, en su ascensión hacia el cielo.
+//////////
+##########
+LOCA:004
+NAME:CIELO
+DESC:Está despejado y las pocas nubes que se ven en el horizonte, no presagian cambios.
+//////////
+##########
+LOCA:004
+NAME:ROCAS
+DESC:Las rocas que te rodean, son fragmentos desprendidos de las estribaciones pétreas que se elevan hacia el cielo y comparten su mismo color cobrizo.
+//////////
+##########
+LOCA:004
+NAME:ROCA
+DESC:Las rocas que te rodean, son fragmentos desprendidos de las estribaciones pétreas que se elevan hacia el cielo y comparten su mismo color cobrizo.
+//////////
+##########
+LOCA:005
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:005
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:005
+NAME:DESIERTO
+DESC:Pues el desierto está desierto, salvo por los cientos de millones de granos de arena que lo pueblan.
+//////////
+##########
+LOCA:005
+NAME:CALOR
+DESC:Hace mucho, pero por suerte para ti, eres un tipo que está muy bien hidratado y necesitas beber poco.
+//////////
+##########
+LOCA:006
+NAME:CACTUS
+DESC:La dura piel del cáctus, está poblada de púas de titanio, descubres que hay una que está a punto de desprenderse.@PUA@La dura piel del cáctus, está poblada de púas de titanio fuertemente ancladas al tronco.
+//////////
+##########
+LOCA:006
+NAME:CACTU
+DESC:La dura piel del cáctus, está poblada de púas de titanio, descubres que hay una que está a punto de desprenderse.@PUA@La dura piel del cáctus, está poblada de púas de titanio fuertemente ancladas al tronco.
+//////////
+##########
+LOCA:006
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:006
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:006
+NAME:DESIERTO
+DESC:Pues el desierto está desierto, salvo por los cientos de millones de granos de arena que lo pueblan y los cáctus que te rodean.
+//////////
+##########
+LOCA:007
+NAME:DESIERTO
+DESC:Pues el desierto está desierto, salvo por los cientos de millones de granos de arena que lo pueblan.
+//////////
+##########
+LOCA:007
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:007
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:007
+NAME:CIELO
+DESC:Está despejado y las pocas nubes que se ven en el horizonte, no presagian cambios.
+//////////
+##########
+LOCA:007
+NAME:HORIZONTE
+DESC:La arena que flota en el ambiente y el calor, hace que al mirarlo parezca difuminarse y confundirse con el cielo.
+//////////
+##########
+LOCA:007
+NAME:SOL
+DESC:A pesar de no estar en lo más alto del cielo, no deja de brillar y hace que el calor sea insoportable.
+//////////
+##########
+LOCA:007
+NAME:DUNA
+DESC:Acumulación de arena, de diferentes tamaños y orientaciones diversas. No son de gran utilidad.
+//////////
+##########
+LOCA:007
+NAME:DUNAS
+DESC:Acumulación de arena, de diferentes tamaños y orientaciones diversas. No son de gran utilidad.
+//////////
+##########
+LOCA:008
+NAME:LADERA
+DESC:Tienen un perfil muy irregular y cortante, erosionado a lo largo de los años por la acción del viento y el sol.
+//////////
+##########
+LOCA:008
+NAME:LADERAS
+DESC:Tienen un perfil muy irregular y cortante, erosionado a lo largo de los años por la acción del viento y el sol.
+//////////
+##########
+LOCA:008
+NAME:ROCA
+DESC:Las rocas por esta zona presentan un perfil muy irregular y cortante, pero no sirven de mucho.
+//////////
+##########
+LOCA:008
+NAME:ROCAS
+DESC:Las rocas por esta zona presentan un perfil muy irregular y cortante, pero no sirven de mucho.
+//////////
+##########
+LOCA:008
+NAME:SECCION
+DESC:Tienen un perfil muy irregular y cortante, erosionado a lo largo de los años por la acción del viento y el sol.
+//////////
+##########
+LOCA:008
+NAME:SECCIONES
+DESC:Tienen un perfil muy irregular y cortante, erosionado a lo largo de los años por la acción del viento y el sol.
+//////////
+##########
+LOCA:008
+NAME:BANDIDOS
+DESC:Son uno de los problemas más comunes por esta zona. Usan las rocas para ocultarse y atacar cuando menos te lo esperas. Ten cuidado con ellos, son muy peligrosos, disparan primero y preguntan después.
+//////////
+##########
+LOCA:008
+NAME:BANDIDO
+DESC:Son uno de los problemas más comunes por esta zona. Usan las rocas para ocultarse y atacar cuando menos te lo esperas. Ten cuidado con ellos, son muy peligrosos, disparan primero y preguntan después.
+//////////
+##########
+LOCA:009
+NAME:CABINA
+DESC:Es una cabina de teléfono de toda la vida, quien la puso aquí y el motivo por el cual lo hizo, es un misterio. Además no funciona. 
+//////////
+##########
+LOCA:009
+NAME:ARENA
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:009
+NAME:ARENAS
+DESC:Típica arena del desierto, fina y de un bonito color amarillento. La hay por todas partes, y no creo que te sea de mucha utilidad.
+//////////
+##########
+LOCA:009
+NAME:HORIZONTE
+DESC:La arena que flota en el ambiente y el calor, hace que al mirarlo parezca difuminarse y confundirse con el cielo.
+//////////
+##########
+LOCA:009
+NAME:SOL
+DESC:A pesar de no estar en lo más alto del cielo, no deja de brillar y hace que el calor sea insoportable.
+//////////
+##########
+LOCA:009
+NAME:DUNA
+DESC:Acumulación de arena, de diferentes tamaños y orientaciones diversas. No son de gran utilidad.
+//////////
+##########
+LOCA:009
+NAME:DUNAS
+DESC:Acumulación de arena, de diferentes tamaños y orientaciones diversas. No son de gran utilidad.
+//////////
+##########
+LOCA:010
+NAME:PUERTO
+DESC:La ciudad de Moscasalien, es la más habitada de todo Tutuflex y es famosa por su puerto espacial, con salida a todos los confines del universo conocido. Es lugar de tránsito de delincuentes y sinvergüenzas, y demás personas de bien, que generalmente huyen del poder de Karapalo y Darth Water.
+//////////
+##########
+LOCA:010
+NAME:MOSCASALIEN
+DESC:La ciudad de Moscasalien, es la más habitada de todo Tutuflex y es famosa por su puerto espacial, con salida a todos los confines del universo conocido. Es lugar de tránsito de delincuentes y sinvergüenzas, y demás personas de bien, que generalmente huyen del poder de Karapalo y Darth Water.
+//////////
+##########
+LOCA:010
+NAME:SERES
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:010
+NAME:SER
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:CALLE
+DESC:Estás en la calle principal de Moscasalien, una amplia avenida que recorre la ciudad de Norte a Sur, con numerosas callejuelas laterales tanto a Este como a Oeste. 
+//////////
+##########
+LOCA:011
+NAME:SERES
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:PERSONAS
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:PERSONA
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:HABITANTES
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:HABITANTE
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:SER
+DESC:Van y vienen sin hacerte demasiado caso, los hay de todos los tipos, razas y colores que puedas imaginar. Aquí no vas a obtener mucha ayuda de ellos.
+//////////
+##########
+LOCA:011
+NAME:VEHICULO
+DESC:La mayor parte son monovaínas para viajar por el desierto, aunque hay también muchos vehículos de carga con pesados remolques y animales de tiro.
+//////////
+##########
+LOCA:011
+NAME:VEHICULOS
+DESC:La mayor parte son monovaínas para viajar por el desierto, aunque hay también muchos vehículos de carga con pesados remolques y animales de tiro.
+//////////
+##########
+LOCA:011
+NAME:MONOVAINA
+DESC:Son vehículos muy rápidos, de uno o dos asientos como máximo, usados como medio de transporte por el desierto.
+//////////
+##########
+LOCA:011
+NAME:MONOVAINAS
+DESC:Son vehículos muy rápidos, de uno o dos asientos como máximo, usados como medio de transporte por el desierto.
+//////////
+##########
+LOCA:011
+NAME:REMOLQUE
+DESC:Son grandes, pensados para transportar cualquier tipo de mercancias.
+//////////
+##########
+LOCA:011
+NAME:REMOLQUES
+DESC:Son grandes, pensados para transportar cualquier tipo de mercancias.
+//////////
+##########
+LOCA:011
+NAME:ANIMALES
+DESC:Casi todos son animales usados para carga, aunque se pueden distiguir dos especies básicas: los Tricercuernus y los Diplosimios.
+//////////
+##########
+LOCA:011
+NAME:ANIMAL
+DESC:Casi todos son animales usados para carga, aunque se pueden distiguir dos especies básicas: los Tricercuernus y los Diplosimios. 
+//////////
+##########
+LOCA:011
+NAME:NUBES
+DESC:Las nubes de polvo son la consecuencia del suelo sin asfaltar y el paso de vehículos, personas y animales por él. Desde luego no parece lo más saludable para los pulmones.
+//////////
+##########
+LOCA:011
+NAME:NUBE
+DESC:Las nubes de polvo son la consecuencia del suelo sin asfaltar y el paso de vehículos, personas y animales por él. Desde luego no parece lo más saludable para los pulmones.
+//////////
+##########
+LOCA:011
+NAME:POLVO
+DESC:Es la consecuencia del suelo sin asfaltar y el paso de vehículos, personas y animales por él. Desde luego no parece lo más saludable para los pulmones.
+//////////
+##########
+LOCA:011
+NAME:SUELO
+DESC:El suelo de la ciudad no es más que roca puesta sobre la arena, muy gastado por el uso diario de los habitantes de la ciudad.
+//////////
+##########
+LOCA:011
+NAME:ROCA
+DESC:Traídas desde las zonas montañosas del planeta, son usadas para cubrir las calles, aunque el desgaste que tienen por el uso diario y el clima, hace que haya que cambiarlas a un ritmo mayor del que se reponen.
+//////////
+##########
+LOCA:011
+NAME:ROCAS
+DESC:Traídas desde las zonas montañosas del planeta, son usadas para cubrir las calles, aunque el desgaste que tienen por el uso diario y el clima, hace que haya que cambiarlas a un ritmo mayor del que se reponen.
+//////////
+##########
+LOCA:012
+NAME:CALLE
+DESC:Es un sucio callejón que parte desde la avenida principal de la ciudad. Varias puertas abiertas invitan a ir a otro lugar.
+//////////
+##########
+LOCA:012
+NAME:CALLEJON
+DESC:Es un sucio callejón que parte desde la avenida principal de la ciudad. Varias puertas abiertas invitan a ir a otro lugar.
+//////////
+##########
+LOCA:012
+NAME:PUERTA
+DESC:Todas están abiertas dejándote libre el paso a diferentes establecimientos, cada uno con peor pinta que el anterior.
+//////////
+##########
+LOCA:012
+NAME:PUERTAS
+DESC:Todas están abiertas dejándote libre el paso a diferentes establecimientos, cada uno con peor pinta que el anterior.
+//////////
+##########
+LOCA:012
+NAME:ESTABLECIMIENTO
+DESC:Desde aquí puedes ver lo que parece ser una tienda de compra-venta e intercambio, y un par de baretos de muy mal aspecto.
+//////////
+##########
+LOCA:012
+NAME:ESTABLECIMIENTOS
+DESC:Desde aquí puedes ver lo que parece ser una tienda de compra-venta e intercambio, y un par de baretos de muy mal aspecto.
+//////////
+##########
+LOCA:012
+NAME:SUELO
+DESC:El suelo de la ciudad no es más que roca puesta sobre la arena, muy gastado por el uso diario de los habitantes de la ciudad.
+//////////
+##########
+LOCA:012
+NAME:ROCA
+DESC:Traídas desde las zonas montañosas del planeta, son usadas para cubrir las calles, aunque el desgaste que tienen por el uso diario y el clima, hace que haya que cambiarlas a un ritmo mayor del que se reponen.
+//////////
+##########
+LOCA:012
+NAME:ROCAS
+DESC:Traídas desde las zonas montañosas del planeta, son usadas para cubrir las calles, aunque el desgaste que tienen por el uso diario y el clima, hace que haya que cambiarlas a un ritmo mayor del que se reponen.
+//////////
+##########
+LOCA:013
+NAME:TIPOS
+DESC:De prácticamente todos los rincones de la galaxia. Ninguno te presta atención, ni parece que puedan ayudarte. Sólo beben, juegan y están a sus cosas. Nadie te hace caso.
+//////////
+##########
+LOCA:013
+NAME:TIPO
+DESC:De prácticamente todos los rincones de la galaxia. Ninguno te presta atención, ni parece que puedan ayudarte. Sólo beben, juegan y están a sus cosas. Nadie te hace caso.
+//////////
+##########
+LOCA:013
+NAME:BARRA
+DESC:La barra del bar no es más que un enorme cajón de madera, le han soldado algunas barras de metal para darle mayor fortaleza.
+//////////
+##########
+LOCA:013
+NAME:GALACTOCHIVA
+DESC:Típica bebida de Moscasalien, rica en alcohol y en otras sustancias de dudosa procedencia.
+//////////
+##########
+LOCA:013
+NAME:GALACTOCHIVAS
+DESC:Típica bebida de Moscasalien, rica en alcohol y en otras sustancias de dudosa procedencia.
+//////////
+##########
+LOCA:013
+NAME:BAR
+DESC:Aquí acaban la mayor parte de los delincuentes de la ciudad, es famoso por sus galactochivas adulteradas.
+//////////
+##########
+LOCA:014
+NAME:TASCA
+DESC:Este lugar es el sitio ideal para encontrar pilotos y contrabandistas, que por unos cuantos créditos, desafían el poder de Karapalo. Está abarrotado de gente y casi no te puedes mover.
+//////////
+##########
+LOCA:014
+NAME:GENTE
+DESC:Más que gente, yo diría que es gentuza, procedente de los más variopintos lugares de la galaxia.
+//////////
+##########
+LOCA:014
+NAME:DELAESQUINA
+DESC:Este lugar es el sitio ideal para encontrar pilotos y contrabandistas, que por unos cuantos créditos, desafían el poder de Karapalo. Está abarrotado de gente y casi no te puedes mover.
+//////////
+##########
+LOCA:015
+NAME:TIENDA
+DESC:La tienda, es un largo pasillo que acaba en una puerta a la trastienda. El único mobiliario es un mostrador acristalado, lleno de polvo y mugre, y montones de cajas que se apilan por todos lados.
+//////////
+##########
+LOCA:015
+NAME:CAJAS
+DESC:Las hay por todos los lados. Están precintadas en su mayoría, no creo que te ayuden mucho.
+//////////
+##########
+LOCA:015
+NAME:CAJA
+DESC:Las hay por todos los lados. Están precintadas en su mayoría, no creo que te ayuden mucho.
+//////////
+##########
+LOCA:015
+NAME:MOSTRADOR
+DESC:Es una estructura metálica acristalada. No tiene nada de interés.
+//////////
+##########
+LOCA:015
+NAME:PUERTA
+DESC:La puerta está débilmente iluminada, por lo que no eres capaz de ver mucho más alla de su silueta.
+//////////
+##########
+LOCA:015
+NAME:TRANSTIENDA
+DESC:Desde aquí no puedes ver mucho, aunque oyes ruidos metálicos que vienen desde allí.
+//////////
+##########
+LOCA:015
+NAME:CUBOS
+DESC:Cubos de glycanium de diferentes tamaños y colores, no te van a ser muy útiles.
+//////////
+##########
+LOCA:015
+NAME:GLYCANIUM
+DESC:Tiene forma de cubo y está apilado, no te van a ser muy útil.
+//////////
+##########
+LOCA:015
+NAME:PLACA
+DESC:Las placas fotodetectoras se activan al detectar variaciones en la luz que reciben, suelen ir conectadas a alarmas u otros dispositivos molestos.
+//////////
+##########
+LOCA:015
+NAME:CUBO
+DESC:Cubos de glycanium de diferentes tamaños y colores, no te van a ser muy útiles.
+//////////
+##########
+LOCA:016
+NAME:CUARTEL
+DESC:Está lleno de soldados imperialistas fieles a Karapalo.
+//////////
+##########
+LOCA:016
+NAME:REGIMIENTO
+DESC:Hay suficientes cómo para meterte en serios problemas. Están fuertemente armados y están provistos de sus blancas armaduras de combate.
+//////////
+##########
+LOCA:016
+NAME:TROPAS
+DESC:Hay suficientes cómo para meterte en serios problemas. Están fuertemente armados y están provistos de sus blancas armaduras de combate.
+//////////
+##########
+LOCA:016
+NAME:TROPA
+DESC:Hay suficientes cómo para meterte en serios problemas. Están fuertemente armados y están provistos de sus blancas armaduras de combate.
+//////////
+##########
+LOCA:016
+NAME:SOLDADO
+DESC:Hay suficientes cómo para meterte en serios problemas. Están fuertemente armados y están provistos de sus blancas armaduras de combate.
+//////////
+##########
+LOCA:016
+NAME:SOLDADOS
+DESC:Hay suficientes cómo para meterte en serios problemas. Están fuertemente armados y están provistos de sus blancas armaduras de combate.
+//////////
+##########
+LOCA:016
+NAME:ARMADURA
+DESC:No creo que sea una buena idea hacer eso, los soldados son muy celosos de sus armaduras y no dejan que nadie pueda acercarse a ellas.
+//////////
+##########
+LOCA:016
+NAME:ARMADURAS
+DESC:No creo que sea una buena idea hacer eso, los soldados son muy celosos de sus armaduras y no dejan que nadie pueda acercarse a ellas.
+//////////
+##########
+LOCA:016
+NAME:ARMAS
+DESC:No creo que sea una buena idea hacer eso, ¿crees que los soldados van a dejar que les examines asi porque si?
+//////////
+##########
+LOCA:016
+NAME:ARMA
+DESC:No creo que sea una buena idea hacer eso, ¿crees que los soldados van a dejar que les examines asi porque si?
+//////////
+##########
+LOCA:017
+NAME:INTERIOR
+DESC:La tienda no es muy grande y está muy mal iluminada, eso sí, hay baldas de metal en todas las paredes desde el suelo hasta el techo, repletas de extraños objetos y cajas.
+//////////
+##########
+LOCA:017
+NAME:TIENDA
+DESC:La tienda no es muy grande y está muy mal iluminada, eso sí, hay baldas de metal en todas las paredes desde el suelo hasta el techo, repletas de extraños objetos y cajas.
+//////////
+##########
+LOCA:017
+NAME:OBJETOS
+DESC:Intentas echar un vistazo a los objetos, pero el Jamoneano te mira con desconfianza y decides desistir.
+//////////
+##########
+LOCA:017
+NAME:OBJETO
+DESC:Intentas echar un vistazo a los objetos, pero el Jamoneano te mira con desconfianza y decides desistir.
+//////////
+##########
+LOCA:017
+NAME:CAJA
+DESC:Intentas echar un vistazo a los cajas de los estantes, pero el Jamoneano te mira con desconfianza y decides desistir.
+//////////
+##########
+LOCA:017
+NAME:CAJAS
+DESC:Intentas echar un vistazo a las cajas de los estantes, pero el Jamoneano te mira con desconfianza y decides desistir.
+//////////
+##########
+LOCA:017
+NAME:ESTANTES
+DESC:Son metálicos y cubren las paredes de la tienda. Están sólidamente anclados. 
+//////////
+##########
+LOCA:017
+NAME:ESTANTE
+DESC:Son metálicos y cubren las paredes de la tienda. Están sólidamente anclados. 
+//////////
+##########
+LOCA:018
+NAME:SALON
+DESC:Las paredes están adornadas con numerosas imagénes de hembras de diversas razas, todas ellas en posiciones eróticas de lo más sugerente.
+//////////
+##########
+LOCA:018
+NAME:SOFAS
+DESC:Son muy cómodos y mullidos, algo por otra parte completamente normal, en este sitio se persigue que el cliente esté cómodo y olvide sus preocupaciones.
+//////////
+##########
+LOCA:018
+NAME:SOFA
+DESC:Son muy cómodos y mullidos, algo por otra parte completamente normal, en este sitio se persigue que el cliente esté cómodo y olvide sus preocupaciones.
+//////////
+##########
+LOCA:018
+NAME:CHICAS
+DESC:Chicas, chicas, yo no diría que fuera, en todo caso, hembras de diferentes especies, emitiendo ferhormonas y en aptitud de cópula inminente.
+//////////
+##########
+LOCA:018
+NAME:CHICA
+DESC:Chicas, chicas, yo no diría que fuera, en todo caso, hembras de diferentes especies, emitiendo ferhormonas y en aptitud de cópula inminente.
+//////////
+##########
+LOCA:018
+NAME:MONSTRUOSIDAD
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:HEMBRAS
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:HEMBRA
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:ALIENIGENAS
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:ALIENIGENA
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:MONSTRUOSIDADES
+DESC:Desde luego no son tu tipo: las Vellusinas se caracterizan por su pelo negro y largo, y su nariz en forma de trompeta. Las Lagartianas con su lengua bífida y su cuerpo con piel de réptil, te produce escalofrios.
+//////////
+##########
+LOCA:018
+NAME:VELLUSINA
+DESC:A simple vista parecería una chica terráquea, pero ¡jodo! cuando le miras la cara te da repelus!!!
+//////////
+##########
+LOCA:018
+NAME:VELLUSINAS
+DESC:A simple vista parecería una chica terráquea, pero ¡jodo! cuando le miras la cara te da repelus!!!
+//////////
+##########
+LOCA:018
+NAME:LAGARTIANA
+DESC:La evolución de los dinosaurios en forma de mujer o al menos de hembra de alguna clase.
+//////////
+##########
+LOCA:018
+NAME:LAGARTIANAS
+DESC:La evolución de los dinosaurios en forma de mujer o al menos de hembra de alguna clase.
+//////////
+##########
+LOCA:019
+NAME:CHAVALA
+DESC:Tiene un cuerpo escultural pero una cara..... ¡de pez!
+//////////
+##########
+LOCA:019
+NAME:CHICA
+DESC:Tiene un cuerpo escultural pero una cara..... ¡de pez!
+//////////
+##########
+LOCA:019
+NAME:PIEL
+DESC:De color azul, y llena de diminutas escamas, se nota que la cuida mucho porque brilla a la luz.
+//////////
+##########
+LOCA:019
+NAME:MOSTRADORES
+DESC:Son mostradores de madera de Naka, una de las más duras que se conocen. No tienen nada interesante, salvo por los catálogos que están alli visibles.
+//////////
+##########
+LOCA:019
+NAME:MOSTRADOR
+DESC:Son mostradores de madera de Naka, una de las más duras que se conocen. No tienen nada interesante, salvo por los catálogos que están alli visibles.
+//////////
+##########
+LOCA:019
+NAME:CATALOGO
+DESC:Hay muchos, todos ellos escritos en un idioma que no conoces. Tienen fotos de lugares lejanos y de una señorita que te da la bienvenida de un modo muy sensual.
+//////////
+##########
+LOCA:019
+NAME:CATALOGOS
+DESC:Hay muchos, todos ellos escritos en un idioma que no conoces. Tienen fotos de lugares lejanos y de una señorita que te da la bienvenida de un modo muy sensual.
+//////////
+##########
+LOCA:020
+NAME:HANGAR
+DESC:Es un amplio espacio, habilitado en el edificio anexo al que acabas de dejar, que sirve para labores de mantenimiento de pequeñas naves espaciales. Tiene una bóveda de cristal, que se abre de manera automática para permitir la entrada y salida en él.
+//////////
+##########
+LOCA:020
+NAME:LUZ
+DESC:Pues luz ¡tio, a que te meto una...!
+//////////
+##########
+LOCA:020
+NAME:AGUJEROS
+DESC:Son los espacios que quedan entre las vigas de metal que sujetan la bóveda acristalada.
+//////////
+##########
+LOCA:020
+NAME:AGUJERO
+DESC:Son los espacios que quedan entre las vigas de metal que sujetan la bóveda acristalada.
+//////////
+##########
+LOCA:020
+NAME:TECHO
+DESC:Es una bóveda acristalada, que se puede abrir o cerrar a voluntad para el paso de las naves espaciales.
+//////////
+##########
+LOCA:020
+NAME:BOVEDA
+DESC:Es de cristal o de algún tipo de plástico transparente. Se puede abrir o cerrar para el paso de las naves espaciales.
+//////////
+##########
+LOCA:020
+NAME:HALCON
+DESC:¡Vaya timo de nave! ¿pero esto vuela? Hay partes del casco exterior sujeto con cinta aislante y alambres, en algún pasado muy pero que muy lejano, seguro que fue una gran nave, pero ahora yo no apostaría mucho por ella. Tiene la rampa de entrada bajada.
+//////////
+##########
+LOCA:020
+NAME:NAVE
+DESC:¡Vaya timo es el Halcón Millonario! ¿pero esto vuela? Hay partes del casco exterior sujeto con cinta aislante y alambres, en algún pasado muy pero que muy lejano, seguro que fue una gran nave, pero ahora yo no apostaría mucho por él. Tiene la rampa de entrada bajada.
+//////////
+##########
+LOCA:020
+NAME:CASCO
+DESC:Mejor no, si examinas con detalle el casco de la nave, no te subes ni de broma.
+//////////
+##########
+LOCA:020
+NAME:RAMPA
+DESC:Se acopla al casco de la nave una vez ha sido subida, tiene luces de colores a ambos lados para guiar en la subida.
+//////////
+##########
+LOCA:020
+NAME:ALAMBRE
+DESC:¿Para qué? ¿Quieres desmoralizarte y no subirte a la nave?
+//////////
+##########
+LOCA:020
+NAME:ALAMBRES
+DESC:¿Para qué? ¿Quieres desmoralizarte y no subirte a la nave?
+//////////
+##########
+LOCA:020
+NAME:CINTA
+DESC:¿Para qué? ¿Quieres desmoralizarte y no subirte a la nave?
+//////////
+##########
+LOCA:020
+NAME:CHASI
+DESC:Mejor no, si examinas con detalle el casco de la nave, no te subes ni de broma.
+//////////
+##########
+LOCA:021
+NAME:CONTENEDOR
+DESC:Es metálico y está cerrado con una tarjeta llave.
+//////////
+##########
+LOCA:021
+NAME:PASILLO
+DESC:Comunica las diferentes zonas vitales del Halcón Millonario. Está iluminado por diodos led ubicados en el techo.
+//////////
+##########
+LOCA:021
+NAME:LUCES
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien,¡menos mal!
+//////////
+##########
+LOCA:021
+NAME:LUZ
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:021
+NAME:LUCECITA
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:021
+NAME:LUCECITAS
+DESC:Hay muchas y por todas partes. Parecen indicar que todo funciona bien, ¡menos mal!
+//////////
+##########
+LOCA:021
+NAME:PANELES
+DESC:Se componen de muchas lucecitas multicolores que dan información sobre el estado de la nave, y por el momento todo parece ir bien, aunque no te fies.
+//////////
+##########
+LOCA:021
+NAME:PANEL
+DESC:Se componen de muchas lucecitas multicolores que dan información sobre el estado de la nave, y por el momento todo parece ir bien, aunque no te fies.
+//////////
+##########
+LOCA:021
+NAME:PARED
+DESC:Las paredes del Halcón son metálicas y recubiertas de una capa de fibra de carbono, aunque ésta, ha desaparecido en muchas partes de la nave, dejando ver el entramado de cables. ¡Dios nos asista en el espacio!
+//////////
+##########
+LOCA:021
+NAME:DIODO
+DESC:Iluminan tenuemente el pasillo de acceso de la nave.
+//////////
+##########
+LOCA:021
+NAME:DIODOS
+DESC:Iluminan tenuemente el pasillo de acceso de la nave.
+//////////
+##########
+LOCA:021
+NAME:TECHO
+DESC:No presenta demasiado buen aspecto y al igual que las paredes, vivió momentos mejores. Aún estas a tiempo de volver a casa.
+//////////
+##########
+LOCA:022
+NAME:SILLONES
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores.
+//////////
+##########
+LOCA:022
+NAME:SILLON
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores.
+//////////
+##########
+LOCA:022
+NAME:ASIENTO
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:022
+NAME:ASIENTOS
+DESC:Están ubicados detrás de los controles de navegación. En algún momento debieron de ser de algún material parecido al cuero, ahora es un collage de parches de colores, y en algunas zonas puedes ver los muelles colgando.
+//////////
+##########
+LOCA:022
+NAME:MUELLE
+DESC:¿Eso no debería estar dentro del asiento de mando?
+//////////
+##########
+LOCA:022
+NAME:MUELLES
+DESC:¿Eso no debería estar dentro del asiento de mando?
+//////////
+##########
+LOCA:022
+NAME:PANEL
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:022
+NAME:CONTROLES
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:022
+NAME:CONTROL
+DESC:Luces de colores y palancas de control, de diferentes tamaños, colores y posiciones. No parece fácil pilotar la nave.
+//////////
+##########
+LOCA:022
+NAME:PALANCA
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:022
+NAME:PALANCAS
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:022
+NAME:PALANQUITA
+DESC:Se utilizan para dirigir los timones de la nave y orientarla en el espacio.
+//////////
+##########
+LOCA:022
+NAME:BUSCADOR
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:022
+NAME:CIMANID
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:022
+NAME:CIMANID-2X
+DESC:El buscador Cimanid-2X, es lo último en tecnología de búsqueda y rastreo espacial... ¡hace 50 años!, servía (perdón sirve) para localizar naves en el espacio.
+//////////
+##########
+LOCA:023
+NAME:SALA
+DESC:Aquí se encuentran las computadoras de hiperespacio. También se utiliza como sala de reunión. Sirve de paso al resto de la nave.
+//////////
+##########
+LOCA:023
+NAME:MESA
+DESC:Situada junto a unas pequeñas taquillas, sirve para todo, desde ver mapas estelares a tomarse un cafetillo.
+//////////
+##########
+LOCA:023
+NAME:TAQUILLA
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:023
+NAME:TAQUILLAS
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:023
+NAME:ARTILUGIOS
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:023
+NAME:ARTILUGIO
+DESC:No creo que a Juan Solo, le haga gracia que toques sus cosas.
+//////////
+##########
+LOCA:023
+NAME:COMPUTADORA
+DESC:Son fundamentales para poder viajar por el hiperespacio sin problemas. Se encargan de calcular la ruta de viaje antes del salto y mantener la nave dentro del rumbo.
+//////////
+##########
+LOCA:023
+NAME:COMPUTADORAS
+DESC:Son fundamentales para poder viajar por el hiperespacio sin problemas. Se encargan de calcular la ruta de viaje antes del salto y mantener la nave dentro del rumbo.
+//////////
+##########
+LOCA:024
+NAME:CONTAINER
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:024
+NAME:CONTAINERS
+DESC:Cajas de un tamaño muy grande para llevar cosas. Están vacíos.
+//////////
+##########
+LOCA:024
+NAME:FLOTACAJA
+DESC:Levitan gracias a unos inversores gravitatorios. Están vacías.
+//////////
+##########
+LOCA:024
+NAME:FLOTACAJAS
+DESC:Levitan gracias a unos inversores gravitatorios. Están vacías.
+//////////
+##########
+LOCA:025
+NAME:TUBOS
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:TUBO
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:CABLES
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:CABLE
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:FIBRA
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:FIBRA-LUZ
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:FIBRALUZ
+DESC:Conectan muchas cosas con otras muchas. Yo no tocaría nada.
+//////////
+##########
+LOCA:025
+NAME:MOTORES
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados, están golpeados por varios sitios.
+//////////
+##########
+LOCA:025
+NAME:MOTOR
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados, están golpeados por varios sitios.
+//////////
+##########
+LOCA:025
+NAME:KRUGGER
+DESC:Los motores Krugger son de lo mejorcito que se ha fabricado, tienen una potencia y fiabilidad sin igual, sin embargo, estos dos no parecen haber sido muy bien tratados.
+//////////
+##########
+LOCA:026
+NAME:BOTIQUIN
+DESC:¡Qué raro!¡está vacío!, mejor no te hagas ninguna herida.
+//////////
+##########
+LOCA:026
+NAME:TURBOLASER
+DESC:Los turboláser se componen de un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Los turboláseres se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:026
+NAME:TURBOLASERES
+DESC:Los turboláser se componen de un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Los turboláseres se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:026
+NAME:PUESTO
+DESC:Es un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Las torretas se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:026
+NAME:PUESTOS
+DESC:Es un asiento direccional conectado a una torreta láser, apuntan a lo que indique el monitor de búsqueda. Las torretas se activan con el comando "ACTIVAR TURBOLASER".
+//////////
+##########
+LOCA:026
+NAME:MONITOR
+DESC:En caso de batalla, marcan los objetivos posibles de manera que puedan ser abatidos.
+//////////
+##########
+LOCA:026
+NAME:TORRETA
+DESC:Las torretas se mueven en el sentido que indiques cuando estan activas, apuntando a los objetivos del monitor de búsqueda. Se activan con el comando "ACTIVAR TORRETA".
+//////////
+##########
+LOCA:026
+NAME:TORRETAS
+DESC:Las torretas se mueven en el sentido que indiques cuando estan activas, apuntando a los objetivos del monitor de búsqueda. Se activan con el comando "ACTIVAR TORRETA".
+//////////

@@ -1,0 +1,70 @@
+&&&&&&&&&&
+##########
+IDEN:001
+TIPO:FOLLOW
+NAME:ANDROIDE_NOS_SIGUE
+ACTI:TRUE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:Los androides te siguen.
+//////////
+##########
+IDEN:002
+TIPO:FOLLOW
+NAME:OBI_NOS_SIGUE
+ACTI:TRUE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:Obi te sigue.
+//////////
+##########
+IDEN:003
+TIPO:GIVE
+NAME:DAR_BITCOINS_A_COCINERO
+ACTI:TRUE
+LOCA:020
+RAND:FALSE
+NEED:BITCOIN@Das la tarjeta de bitcoin al robot cocinero, que la chequea en un lector. Verificado el saldo, extiende un apendice mecánico que sostiene una gigantesca hamburguesa.
+RETU:HAMBURGUESA@El robot cocinero te deja la hamburguesa en el mostrador y dice: "¡Qué aproveche!"
+//////////
+##########
+IDEN:004
+TIPO:FOLLOW
+NAME:JUANSOLO_NOS_SIGUE
+ACTI:TRUE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:JuanSolo te sigue a corta distancia.
+//////////
+##########
+IDEN:005
+TIPO:FOLLOW
+NAME:CHEQUEVACA_NOS_SIGUE
+ACTI:TRUE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:Chequevaca te sigue a corta distancia.
+//////////
+##########
+IDEN:006
+TIPO:FOLLOW
+NAME:PACA_NOS_SIGUE
+ACTI:FALSE
+MOVE:
+RAND:FALSE
+LOCA:PLAYER
+DESC:La princesa Paca te sigue a corta distancia.
+//////////
+##########
+IDEN:007
+TIPO:GIVE
+NAME:DAR_BURGUER_A_WONGA
+ACTI:TRUE
+LOCA:255
+RAND:FALSE
+NEED:HAMBURGUESA@Con cuidado, das la hamburgesa al terrible Wonga, que la coge con una de sus enormes manazas. Al girarse para comérsela, ves que algunas zonas de su peluda espalda carecen de pelo, y se puede leer el número 8745.
+//////////
